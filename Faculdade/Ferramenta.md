@@ -1,0 +1,2 @@
+- um instrumento que, quando aplicado a um [[Método]] específico, aumenta a eficiência de uma tarefa;
+- facilita a execução das tarefas ("***HOW***").
