@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "569723766e62ba16",
+        "id": "bee1d535d4173b10",
         "type": "tabs",
         "children": [
           {
-            "id": "32fb59053ea10f51",
+            "id": "b384744343c1d51d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Problema de minimização AAO.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Problema de minimização AAO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Problema de minimização AAO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Problema de minimização AAO.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,13 +139,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ccd86d90475756e",
+  "active": "b384744343c1d51d",
   "lastOpenFiles": [
-    "Obsidian",
-    "Excalidraw/Problema de maximização AAO.md",
-    "Faculdade/Case Study SIO.md",
-    "Excalidraw/Problema de minimização AAO.md",
     "Faculdade/Gestão de Projetos Informáticos.md",
+    "Excalidraw/Problema de maximização AAO.md",
+    "Faculdade/My University Note.md",
+    "Excalidraw/Problema de minimização AAO.md",
+    "Obsidian",
+    "Faculdade/Case Study SIO.md",
     "Faculdade/Deadlocks.md",
     "Faculdade/Engenharia de Software.md",
     "Faculdade/Comunicação Processos.md",
@@ -162,7 +157,6 @@
     "Excalidraw",
     "Faculdade/Imagens/causas insucesso.PNG",
     "Faculdade/Imagens/PMO.PNG",
-    "Faculdade/My University Note.md",
     "Faculdade/Imagens/Projetos, Programas e Portefólios.PNG",
     "Faculdade/Imagens/Pressupostos.PNG",
     "Faculdade/Imagens/restrições do projeto.PNG",

@@ -26,5 +26,7 @@
 - [[Máquina Virtual]]
 - [[Princípios de Segurança]]
 - [[Sistemas de Informação organizacional]]
+	- [[Case Study SIO]]
 - [[Gestão de Projetos Informáticos]]
-- 
+- [[Problema de maximização AAO]]
+- [[Problema de minimização AAO]]
