@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bee1d535d4173b10",
+        "id": "6e7b4a9fe8e35f82",
         "type": "tabs",
         "children": [
           {
-            "id": "b384744343c1d51d",
+            "id": "a5486e77e1f6f989",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b384744343c1d51d",
+  "active": "a5486e77e1f6f989",
   "lastOpenFiles": [
+    "Faculdade/Sistemas operativos.md",
     "Faculdade/Gestão de Projetos Informáticos.md",
     "Excalidraw/Problema de maximização AAO.md",
     "Faculdade/My University Note.md",
@@ -171,7 +172,6 @@
     "Faculdade/Produto.md",
     "Faculdade/Requisitos de software.md",
     "Faculdade/Sincronização de Processos.md",
-    "Faculdade/Sistemas operativos.md",
     "Faculdade/Testes de software.md",
     "Faculdade/Utilizadores.md",
     "Faculdade/SWeBoK.md",
