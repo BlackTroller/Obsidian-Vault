@@ -12,6 +12,10 @@ ciclo de vida do produto e superior ao ciclo de vida do projeto ou seja com isto
 
 -  **Grupo de processo de Iniciação** - 
 - **Grupo de processos de Planeamento** - 
-- **Grupo de processos de Execução** -
-- **Grupo de processos de Monitorização e Controlo** -
-- **Grupo de processos de Encerramento** -
+- **Grupo de processos de Execução** - 
+- **Grupo de processos de Monitorização e Controlo** - 
+- **Grupo de processos de Encerramento** - 
+
+###### Norma ISO 21500
+
+enquanto que o PMBOK está a tentar trazer o cliente para o projeto a norma ISO 21500 traz uma abordagem em cascata.
