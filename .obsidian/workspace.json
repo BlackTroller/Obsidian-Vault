@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e7b4a9fe8e35f82",
+        "id": "89029108b6e31f54",
         "type": "tabs",
         "children": [
           {
-            "id": "a5486e77e1f6f989",
+            "id": "6319d43f13a18210",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5486e77e1f6f989",
+  "active": "6319d43f13a18210",
   "lastOpenFiles": [
+    "README.md",
     "Faculdade/Sistemas operativos.md",
     "Faculdade/Gestão de Projetos Informáticos.md",
     "Excalidraw/Problema de maximização AAO.md",
