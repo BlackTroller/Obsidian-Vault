@@ -11,8 +11,12 @@
             "id": "6319d43f13a18210",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md"
+              }
             }
           }
         ]
@@ -141,14 +149,15 @@
   },
   "active": "6319d43f13a18210",
   "lastOpenFiles": [
+    "Faculdade/Case Study SIO.md",
+    "Faculdade/My University Note.md",
+    "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+    "Faculdade/Gestão de Projetos Informáticos.md",
     "README.md",
     "Faculdade/Sistemas operativos.md",
-    "Faculdade/Gestão de Projetos Informáticos.md",
     "Excalidraw/Problema de maximização AAO.md",
-    "Faculdade/My University Note.md",
     "Excalidraw/Problema de minimização AAO.md",
     "Obsidian",
-    "Faculdade/Case Study SIO.md",
     "Faculdade/Deadlocks.md",
     "Faculdade/Engenharia de Software.md",
     "Faculdade/Comunicação Processos.md",
@@ -177,7 +186,6 @@
     "Faculdade/Utilizadores.md",
     "Faculdade/SWeBoK.md",
     "Faculdade/Ambiente.md",
-    "Faculdade/Memória Virtual.md",
     "Faculdade/Imagens/waterfall_model.jpg",
     "Faculdade/Imagens",
     "Faculdade"
