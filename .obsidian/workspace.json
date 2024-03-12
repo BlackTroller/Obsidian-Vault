@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Gestão de Projetos Informáticos.md",
+                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Gestão de Projetos Informáticos.md",
+                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Gestão de Projetos Informáticos.md",
+                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Gestão de Projetos Informáticos.md"
+                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "6319d43f13a18210",
   "lastOpenFiles": [
+    "Faculdade/Gestão de Projetos Informáticos.md",
     "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
     "Faculdade/Case Study SIO.md",
     "Faculdade/My University Note.md",
-    "Faculdade/Gestão de Projetos Informáticos.md",
     "README.md",
     "Faculdade/Sistemas operativos.md",
     "Excalidraw/Problema de maximização AAO.md",
