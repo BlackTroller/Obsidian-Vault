@@ -1,4 +1,4 @@
-
+x
 **Electrotech** - uma empresa estabelecida de equipamento eletrónico com uma presença grande no mercado nas cidades portuguesas
 
 **KrakenTech** -  uma nova empresa especializada em equipamento digital e acessórios com um objetivo de atingir este mercado

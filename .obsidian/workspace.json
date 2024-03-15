@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+                "file": "Faculdade/Case Study SIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+                "file": "Faculdade/Case Study SIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+                "file": "Faculdade/Case Study SIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md"
+                "file": "Faculdade/Case Study SIO.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "6319d43f13a18210",
   "lastOpenFiles": [
-    "Faculdade/Gestão de Projetos Informáticos.md",
     "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+    "Faculdade/Gestão de Projetos Informáticos.md",
     "Faculdade/Case Study SIO.md",
     "Faculdade/My University Note.md",
     "README.md",
