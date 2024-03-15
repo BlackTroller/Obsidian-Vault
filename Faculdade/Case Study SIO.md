@@ -49,3 +49,4 @@ O mercado da kraken tech vai ser em volta dos millenias, Gen Z e os nativos digi
 2nd quarter 25% A M J
 3rd quarter 10% J A S
 4th quarter 35% O N D
+
