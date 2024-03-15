@@ -17,7 +17,7 @@ O mercado da kraken tech vai ser em volta dos millenias, Gen Z e os nativos digi
 ###### Remarks on City Importance
 
 **densidade da população** : ou seja diferentes grupos de idade e de rendimento 
-**Atividade economica** : as cidades servem como potenciadores de dinheiro e inovaação
+**Atividade económica** : as cidades servem como potenciadores de dinheiro e inovação
 **Turismo**: turismo
 **Instituições de ensino** : aprendizagem com as novas tecnologias
 
