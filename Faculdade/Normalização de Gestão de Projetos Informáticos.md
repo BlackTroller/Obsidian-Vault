@@ -31,7 +31,7 @@ nos ciclos de vida dos projetos de software nós estamos mais aproximados aos ci
 - Se o cliente quiser qualquer melhoria, dá-se início a uma nova iteração (começando com a priorização das funcionalidades)
 - Iterações de 2 a 4 semanas ***(sprints)***
 
-ciclo de vida do produto e superior ao ciclo de vida do projeto ou seja com isto queremos dizer que o quando o software está em produção nos temos de conseguir manter o software *(manutenção)* .
+**Ciclo de vida do produto e superior ao ciclo de vida do projeto** ou seja com isto queremos dizer que o quando o software está em produção nos temos de conseguir manter o software *(manutenção)* .
 
 ##### Fases de desenvolvimento de software
 
@@ -59,7 +59,7 @@ De acordo com o standard IEC/IEEE 12207:
 
 ##### Processos de Gestão de Projetos
 
-- **Processos de Gestão do Projeto** – foco nas ***áreas de conhecimento*** do ***PMBOK Guide – Software Extension*** ou ***áreas temá@cas*** da ***ISO 21500.***
+- **Processos de Gestão do Projeto** – foco nas ***áreas de conhecimento*** do ***PMBOK Guide – Software Extension*** ou ***áreas temáticas*** da ***ISO 21500.***
 - **Processos da Construção do Produto*** - Processos da Eng. de Software – Modelos de engenharia de software
 
 ##### Grupos de Processos da Gestão de Projetos
