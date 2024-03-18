@@ -72,7 +72,7 @@ De acordo com o standard IEC/IEEE 12207:
 
 ###### Norma ISO 21500
 
-enquanto que o PMBOK está a tentar trazer o cliente para o projeto a norma ISO 21500 traz uma abordagem em cascata para o projeto.
+enquanto que o **PMBOK** está a tentar trazer o cliente para o projeto a **norma ISO 21500** traz uma abordagem em cascata para o projeto.
 
 ###### Norma ISO 21500 vs PMBOK Guide
 
