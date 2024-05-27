@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f2559dfec2b9a92",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Normalização de Gestão de Projetos Informáticos.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,10 +158,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6319d43f13a18210",
+  "active": "2f2559dfec2b9a92",
   "lastOpenFiles": [
-    "Faculdade/My University Note.md",
     "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+    "Faculdade/My University Note.md",
     "Faculdade/Imagens/ciclo de vida do produto.PNG",
     "Faculdade/Imagens/sequencia de fase de projeto.PNG",
     "Faculdade/Imagens/diferentes ciclos de software.PNG",
