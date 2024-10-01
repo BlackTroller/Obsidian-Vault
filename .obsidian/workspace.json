@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2f2559dfec2b9a92",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +147,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f2559dfec2b9a92",
+  "active": "6319d43f13a18210",
   "lastOpenFiles": [
     "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
     "Faculdade/My University Note.md",
