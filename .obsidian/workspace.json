@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "89029108b6e31f54",
+        "id": "7114a087b402e8cd",
         "type": "tabs",
         "children": [
           {
-            "id": "6319d43f13a18210",
+            "id": "f8c75c74f7bafdd9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Faculdade/Imagens/multi-programação.png"
+                "file": "Faculdade/Sistema de ficheiros.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Imagens/multi-programação.png",
+                "file": "Faculdade/Sistema de ficheiros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Imagens/multi-programação.png",
+                "file": "Faculdade/Sistema de ficheiros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Imagens/multi-programação.png"
+                "file": "Faculdade/Sistema de ficheiros.md"
               }
             }
           }
@@ -145,27 +147,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6319d43f13a18210",
+  "active": "f8c75c74f7bafdd9",
   "lastOpenFiles": [
-    "Faculdade/Imagens/paging.png",
-    "Faculdade/Sistemas operativos.md",
-    "Faculdade/Modelos de Programação Distribuida.md",
-    "Faculdade/My University Note.md",
     "Faculdade/Sincronização de Processos.md",
-    "Faculdade/Modelo.md",
-    "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+    "Faculdade/Modelos de Programação Distribuida.md",
+    "Faculdade/Sistemas operativos.md",
+    "Faculdade/SWeBoK.md",
+    "Faculdade/Sistemas Distribuídos.md",
+    "Faculdade/Sistemas de Informação organizacional.md",
+    "Faculdade/Sistema de ficheiros.md",
+    "Faculdade/Requisitos de software.md",
+    "Faculdade/Qualidade.md",
+    "Faculdade/Produto.md",
+    "Faculdade/Processo (Sistemas operativos).md",
+    "Faculdade/Processo.md",
+    "Faculdade/Princípios de Segurança.md",
+    "Faculdade/Periféricos.md",
     "Faculdade/Perguntas Exame.md",
+    "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+    "Faculdade/My University Note.md",
+    "Faculdade/Imagens/multi-programação.png",
+    "Faculdade/Imagens/paging.png",
+    "Faculdade/Modelo.md",
     "Faculdade/Imagens/Pasted image 20241014103236.png",
     "Pasted image 20241014103255.png",
-    "Faculdade/Sistemas Distribuídos.md",
-    "Faculdade/Processo.md",
-    "Faculdade/Processo (Sistemas operativos).md",
     "README.md",
     "Faculdade/Imagens/ciclo de vida do produto.PNG",
     "Faculdade/Imagens/sequencia de fase de projeto.PNG",
     "Faculdade/Imagens/diferentes ciclos de software.PNG",
     "Faculdade/Imagens/ciclo de vida de projetos.PNG",
-    "Faculdade/Sistemas de Informação organizacional.md",
     "Faculdade/Comunicação Processos.md",
     "Faculdade/Case Study SIO.md",
     "Faculdade/Gestão de Projetos Informáticos.md",
@@ -174,17 +184,9 @@
     "Obsidian",
     "Faculdade/Deadlocks.md",
     "Faculdade/Engenharia de Software.md",
-    "curva esforco.md",
     "Faculdade/Imagens/curva esforco.PNG",
-    "Excalidraw/Drawing 2024-03-08 09.44.31.excalidraw.md",
     "Excalidraw",
     "Faculdade/Imagens/causas insucesso.PNG",
-    "Faculdade/Imagens/PMO.PNG",
-    "Faculdade/Imagens/Projetos, Programas e Portefólios.PNG",
-    "Faculdade/Metodologia.md",
-    "Excalidraw/Drawing 2024-03-04 15.57.16.excalidraw.md",
-    "Faculdade/Sistema de ficheiros.md",
-    "Faculdade/Qualidade.md",
     "Faculdade/Imagens",
     "Faculdade"
   ]

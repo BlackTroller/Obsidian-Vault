@@ -25,3 +25,19 @@ Modelos de IPC mais importantes:
 - Vários espaços de endereçamento disjuntos **(cada processador tem a sua própria memória local)** 
 - Comunicação por mensagens (através de uma canal de comunicação)
 - Comunicação e sincronização integradas num único conceito
+  
+O programador utiliza os **mecanismos de comunicação** por mensagens sem se preocupar com a forma como é feito o **armazenamento** e a **transferência dos dados**.
+
+As várias formas de comunicação por mensagens distinguem-se por:
+
+1. **Tipo de sincronização (ou interação):** 
+	- ***Comunicação síncrona*** 
+	- ***Comunicação assíncrona***
+	- ***Invocação remota de procedimentos***
+
+2. **Forma como são especificados os vários intervenientes no processo:**
+	- ***Identificação de processos***
+	- ***Criação dos processos (dinâmica e estática)***
+	- ***Comunicação bidirecional ou unidirecional***
+
+
