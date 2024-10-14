@@ -33,4 +33,5 @@
 - [[Problema de minimização AAO]]
 - [[Sistemas Distribuídos]]
 	- [[Modelos de Programação Distribuida]]
+	- [[Tipo de Sincronização]]
 	- 

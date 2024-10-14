@@ -28,6 +28,8 @@ Modelos de IPC mais importantes:
   
 O programador utiliza os **mecanismos de comunicação** por mensagens sem se preocupar com a forma como é feito o **armazenamento** e a **transferência dos dados**.
 
+#### Modelos de sincronização por Mensagem
+
 As várias formas de comunicação por mensagens distinguem-se por:
 
 1. **Tipo de sincronização (ou interação):** 
