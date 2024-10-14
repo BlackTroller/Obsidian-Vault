@@ -11,8 +11,12 @@
             "id": "f8c75c74f7bafdd9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Tipo de Sincronização.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Faculdade/Tipo de Sincronização.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Faculdade/Tipo de Sincronização.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Faculdade/Tipo de Sincronização.md"
+              }
             }
           }
         ]
@@ -141,6 +149,11 @@
   },
   "active": "f8c75c74f7bafdd9",
   "lastOpenFiles": [
+    "Faculdade/My University Note.md",
+    "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+    "Faculdade/Modelos de Programação Distribuida.md",
+    "Faculdade/Sincronização de Processos.md",
+    "Faculdade/Sistemas de Informação organizacional.md",
     "Faculdade/Processo (Sistemas operativos).md",
     "Faculdade/Processo.md",
     "Faculdade/Tipo de Sincronização.md",
@@ -148,7 +161,6 @@
     "Faculdade/Testes de software.md",
     "Faculdade/SWeBoK.md",
     "Faculdade/Sistemas Distribuídos.md",
-    "Faculdade/Sistemas de Informação organizacional.md",
     "Faculdade/Sistema de ficheiros.md",
     "Faculdade/Requisitos de software.md",
     "Faculdade/Qualidade.md",
@@ -156,16 +168,12 @@
     "Faculdade/Ambiente.md",
     "Faculdade/Periféricos.md",
     "Faculdade/Sistemas operativos.md",
-    "Faculdade/My University Note.md",
     "Excalidraw/Problema de maximização AAO.md",
     "Excalidraw/Problema de minimização AAO.md",
     "Faculdade/Imagens/Pasted image 20241014105209.png",
-    "Faculdade/Modelos de Programação Distribuida.md",
-    "Faculdade/Sincronização de Processos.md",
     "Faculdade/Produto.md",
     "Faculdade/Princípios de Segurança.md",
     "Faculdade/Perguntas Exame.md",
-    "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
     "Faculdade/Imagens/multi-programação.png",
     "Faculdade/Imagens/paging.png",
     "Faculdade/Modelo.md",

@@ -53,7 +53,7 @@
 	- Simetricamente no recetor
 		Espera (mensagem) DE (nome do processo)
 	- Se o recetor apenas estiver interessado em receber determinada mensagem, não importando quem é o emissor:
-		- ESPERA (mensagem)                                // emissor é anónimo o receptor não
+		- ESPERA (mensagem)                                // emissor é anónimo o recetor não
 
 2. Quando não é apropriado um sistema de nomes únicos para todos os processos, definem-se entidades intermédias, ***caixas de correio*** (ou canais) conhecidas por ambos os intervenientes na comunicação
 		ENVIA (mensagem) PARA (caixa de correio)
