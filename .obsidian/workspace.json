@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Tipo de Sincronização.md",
+                "file": "Faculdade/Periféricos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Tipo de Sincronização.md",
+                "file": "Faculdade/Periféricos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Tipo de Sincronização.md",
+                "file": "Faculdade/Periféricos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Tipo de Sincronização.md"
+                "file": "Faculdade/Periféricos.md"
               }
             }
           }
@@ -149,22 +149,22 @@
   },
   "active": "f8c75c74f7bafdd9",
   "lastOpenFiles": [
+    "Faculdade/Sistemas operativos.md",
+    "Faculdade/Processo (Sistemas operativos).md",
+    "Faculdade/My University Note.md",
+    "Faculdade/Tipo de Sincronização.md",
     "Excalidraw/Problema de maximização AAO.md",
     "Excalidraw/Problema de minimização AAO.md",
-    "Faculdade/Tipo de Sincronização.md",
     "Faculdade/Imagens/Pasted image 20241014105209.png",
-    "Faculdade/My University Note.md",
     "Faculdade/Modelos de Programação Distribuida.md",
     "Faculdade/Sistema de ficheiros.md",
     "Faculdade/Sincronização de Processos.md",
-    "Faculdade/Sistemas operativos.md",
     "Faculdade/SWeBoK.md",
     "Faculdade/Sistemas Distribuídos.md",
     "Faculdade/Sistemas de Informação organizacional.md",
     "Faculdade/Requisitos de software.md",
     "Faculdade/Qualidade.md",
     "Faculdade/Produto.md",
-    "Faculdade/Processo (Sistemas operativos).md",
     "Faculdade/Processo.md",
     "Faculdade/Princípios de Segurança.md",
     "Faculdade/Periféricos.md",
