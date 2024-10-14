@@ -11,12 +11,8 @@
             "id": "f8c75c74f7bafdd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade/Periféricos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Periféricos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Periféricos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Faculdade/Periféricos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,25 +141,29 @@
   },
   "active": "f8c75c74f7bafdd9",
   "lastOpenFiles": [
-    "Faculdade/Sistemas operativos.md",
     "Faculdade/Processo (Sistemas operativos).md",
-    "Faculdade/My University Note.md",
+    "Faculdade/Processo.md",
     "Faculdade/Tipo de Sincronização.md",
+    "Faculdade/Imagens/Pasted image 20241014111734.png",
+    "Faculdade/Testes de software.md",
+    "Faculdade/SWeBoK.md",
+    "Faculdade/Sistemas Distribuídos.md",
+    "Faculdade/Sistemas de Informação organizacional.md",
+    "Faculdade/Sistema de ficheiros.md",
+    "Faculdade/Requisitos de software.md",
+    "Faculdade/Qualidade.md",
+    "Faculdade/Metodologia.md",
+    "Faculdade/Ambiente.md",
+    "Faculdade/Periféricos.md",
+    "Faculdade/Sistemas operativos.md",
+    "Faculdade/My University Note.md",
     "Excalidraw/Problema de maximização AAO.md",
     "Excalidraw/Problema de minimização AAO.md",
     "Faculdade/Imagens/Pasted image 20241014105209.png",
     "Faculdade/Modelos de Programação Distribuida.md",
-    "Faculdade/Sistema de ficheiros.md",
     "Faculdade/Sincronização de Processos.md",
-    "Faculdade/SWeBoK.md",
-    "Faculdade/Sistemas Distribuídos.md",
-    "Faculdade/Sistemas de Informação organizacional.md",
-    "Faculdade/Requisitos de software.md",
-    "Faculdade/Qualidade.md",
     "Faculdade/Produto.md",
-    "Faculdade/Processo.md",
     "Faculdade/Princípios de Segurança.md",
-    "Faculdade/Periféricos.md",
     "Faculdade/Perguntas Exame.md",
     "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
     "Faculdade/Imagens/multi-programação.png",
@@ -180,11 +176,7 @@
     "Faculdade/Imagens/sequencia de fase de projeto.PNG",
     "Faculdade/Imagens/diferentes ciclos de software.PNG",
     "Faculdade/Imagens/ciclo de vida de projetos.PNG",
-    "Faculdade/Comunicação Processos.md",
-    "Faculdade/Case Study SIO.md",
-    "Faculdade/Gestão de Projetos Informáticos.md",
     "Obsidian",
-    "Faculdade/Imagens/curva esforco.PNG",
     "Excalidraw",
     "Faculdade/Imagens",
     "Faculdade"
