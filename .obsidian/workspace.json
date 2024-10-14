@@ -11,11 +11,9 @@
             "id": "6319d43f13a18210",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Faculdade/Imagens/multi-programação.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Faculdade/Imagens/multi-programação.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Faculdade/Imagens/multi-programação.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Faculdade/Imagens/multi-programação.png"
               }
             }
           }
@@ -149,8 +147,20 @@
   },
   "active": "6319d43f13a18210",
   "lastOpenFiles": [
-    "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+    "Faculdade/Imagens/paging.png",
+    "Faculdade/Sistemas operativos.md",
+    "Faculdade/Modelos de Programação Distribuida.md",
     "Faculdade/My University Note.md",
+    "Faculdade/Sincronização de Processos.md",
+    "Faculdade/Modelo.md",
+    "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+    "Faculdade/Perguntas Exame.md",
+    "Faculdade/Imagens/Pasted image 20241014103236.png",
+    "Pasted image 20241014103255.png",
+    "Faculdade/Sistemas Distribuídos.md",
+    "Faculdade/Processo.md",
+    "Faculdade/Processo (Sistemas operativos).md",
+    "README.md",
     "Faculdade/Imagens/ciclo de vida do produto.PNG",
     "Faculdade/Imagens/sequencia de fase de projeto.PNG",
     "Faculdade/Imagens/diferentes ciclos de software.PNG",
@@ -159,8 +169,6 @@
     "Faculdade/Comunicação Processos.md",
     "Faculdade/Case Study SIO.md",
     "Faculdade/Gestão de Projetos Informáticos.md",
-    "README.md",
-    "Faculdade/Sistemas operativos.md",
     "Excalidraw/Problema de maximização AAO.md",
     "Excalidraw/Problema de minimização AAO.md",
     "Obsidian",
@@ -173,19 +181,10 @@
     "Faculdade/Imagens/causas insucesso.PNG",
     "Faculdade/Imagens/PMO.PNG",
     "Faculdade/Imagens/Projetos, Programas e Portefólios.PNG",
-    "Faculdade/Imagens/Pressupostos.PNG",
-    "Faculdade/Imagens/restrições do projeto.PNG",
     "Faculdade/Metodologia.md",
     "Excalidraw/Drawing 2024-03-04 15.57.16.excalidraw.md",
     "Faculdade/Sistema de ficheiros.md",
-    "Faculdade/Processo.md",
     "Faculdade/Qualidade.md",
-    "Faculdade/Produto.md",
-    "Faculdade/Requisitos de software.md",
-    "Faculdade/Sincronização de Processos.md",
-    "Faculdade/Testes de software.md",
-    "Faculdade/Utilizadores.md",
-    "Faculdade/SWeBoK.md",
     "Faculdade/Imagens",
     "Faculdade"
   ]
