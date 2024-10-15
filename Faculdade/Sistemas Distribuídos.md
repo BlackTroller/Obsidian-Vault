@@ -9,7 +9,7 @@ Um sistemas distribuído é o resultado da interação de vários componentes qu
 ###### Hardware
 - Computador mais infraestrutura de rede; 
 - O hardware é gerido pelo Sistema Operativo (SO) que fornece os serviços para: 
-	- comunicação entre processos (IPC – Inter Process communication)
-	- escalonamento e gestão de processos 
+	- comunicação entre [[processo]]s (IPC – Inter Process communication)
+	- escalonamento e gestão de [[processo]]s 
 	- gestão de recursos, como o “file system” e periféricos
 

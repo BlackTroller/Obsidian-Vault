@@ -11,12 +11,8 @@
             "id": "f8c75c74f7bafdd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade/Tipo de Sincronização.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Tipo de Sincronização.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Tipo de Sincronização.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Faculdade/Tipo de Sincronização.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,18 +141,18 @@
   },
   "active": "f8c75c74f7bafdd9",
   "lastOpenFiles": [
-    "Faculdade/My University Note.md",
-    "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
-    "Faculdade/Modelos de Programação Distribuida.md",
-    "Faculdade/Sincronização de Processos.md",
+    "Faculdade/Sistemas Distribuídos.md",
     "Faculdade/Sistemas de Informação organizacional.md",
+    "Faculdade/Tipo de Sincronização.md",
+    "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+    "Faculdade/Sincronização de Processos.md",
+    "Faculdade/My University Note.md",
+    "Faculdade/Modelos de Programação Distribuida.md",
     "Faculdade/Processo (Sistemas operativos).md",
     "Faculdade/Processo.md",
-    "Faculdade/Tipo de Sincronização.md",
     "Faculdade/Imagens/Pasted image 20241014111734.png",
     "Faculdade/Testes de software.md",
     "Faculdade/SWeBoK.md",
-    "Faculdade/Sistemas Distribuídos.md",
     "Faculdade/Sistema de ficheiros.md",
     "Faculdade/Requisitos de software.md",
     "Faculdade/Qualidade.md",

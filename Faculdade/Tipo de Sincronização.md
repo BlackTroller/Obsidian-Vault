@@ -2,7 +2,7 @@
 
 #### Três tipos de interação: 
 - ##### Comunicação síncrona 
-	- O envio de uma mensagem é uma operação atómica que requer a participação de dois processos (emissor e recetor). 
+	- O envio de uma mensagem é uma operação atómica que requer a participação de dois [[processo]]s (emissor e recetor). 
 	- Se o emissor está pronto a enviar a mensagem mas o recetor não a pode receber, o emissor bloqueia; 
 	- Se o recetor está pronto a receber a mensagem mas o emissor não a envia, o recetor bloqueia.
 
@@ -48,29 +48,37 @@
 #### Identificação dos [[Processo]]s
 
 1.  Sistema que todos os processos têm um nome único
-	 - O comando de envio pode nomear diretamente o processador recetor:
-		 ENVIA mensagem PARA nome do processo 
-	- Simetricamente no recetor
-		Espera (mensagem) DE (nome do processo)
-	- Se o recetor apenas estiver interessado em receber determinada mensagem, não importando quem é o emissor:
-		- ESPERA (mensagem)                                // emissor é anónimo o recetor não
+	 - **O comando de envio pode nomear diretamente o processador recetor:**
+		 ***ENVIA*** mensagem ***PARA*** nome do processo 
+	- **Simetricamente no recetor**
+		***ESPERA*** (mensagem) ***DE*** (nome do processo)
+	- **Se o recetor apenas estiver interessado em receber determinada mensagem, não importando quem é o emissor:**
+		- ***ESPERA*** (mensagem)                                // emissor é anónimo o recetor não
 
 2. Quando não é apropriado um sistema de nomes únicos para todos os processos, definem-se entidades intermédias, ***caixas de correio*** (ou canais) conhecidas por ambos os intervenientes na comunicação
-		ENVIA (mensagem) PARA (caixa de correio)
-		ESPERA (mensagem) PARA (caixa de correio)
+		***ENVIA*** (mensagem) ***PARA*** (caixa de correio)
+		***ESPERA*** (mensagem) ***PARA*** (caixa de correio)
 
 	- Uma caixa de correio pode ter várias formas. Pode ser usada por:
-		- por vários emissores e vários recetores 
-		- um emissor e vários recetores **(difusão ou “broadcasting”)**
-		- vários emissores e um recetor 
-		- um recetor e um emissor
+		- por vários **emissores** e vários **recetores** ***(relação N para N)***
+		- um emissor e vários recetores *(difusão ou “broadcasting”)* ***(Relação 1 para N)***
+		- vários emissores e um recetor ***(Relação N para 1)***
+		- um recetor e um emissor ***(Relação 1 para 1)***
 		  
 	- Pode ainda ser estruturada para enviar informação em ambas as direções ou apenas numa.
 
+#### Formas de criação de [[Processo]]s
+- Os processos de um programa distribuído podem ser criados de forma **estática** ou **dinâmica**
+- ###### Definição Estática
+	- Todos os processos são criados no início da execução. 
+	- A atribuição de recursos (memória, canais de comunicação, etc) é feita em tempo de compilação;
+	- mais eficiente;
+- ###### Definição Dinâmica
+	- Permite maior flexibilidade:
+		- O sistema ajusta-se às necessidades da aplicação ao longo do tempo
+		- Permite mecanismos de balanceamento de carga ***(“load balancing”)***
 
-
-
-
-
-
-
+- A criação estática de [[processo]]s é apropriada para sistemas **dedicados** onde a configuração do sistema é conhecida à partida.
+	- **Exemplos:**
+		- ***“embedded systems”***
+		- sistemas de monitorização médica
