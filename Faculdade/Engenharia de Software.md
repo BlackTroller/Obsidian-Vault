@@ -50,3 +50,10 @@ lógica - um conjunto de ***razões*** ou uma base lógica para um curso de aç�
 ![[sequencia logica.png]]
 
 Segundo o software engineering body of knowledge ou [[SWeBoK]] a [[qualidade]] de software está completamente dependente dos requisitos, estes influenciam as suas características de [[qualidade]] e os [[método]]s de cálculo e critérios de aceitação para avaliar estas características.
+
+#### Fundamentos de Qualidade de Software
+
+![[SWQualityFundamentals.jpg]]
+
+
+Qualidade de Software é medida em normas especificas, requisitos e requisitos implicito
