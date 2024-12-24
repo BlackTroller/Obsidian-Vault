@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7114a087b402e8cd",
+        "id": "469d3faef2321fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "f8c75c74f7bafdd9",
+            "id": "f6c24bc5ce6e3b12",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,8 +163,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ccd86d90475756e",
+  "active": "f6c24bc5ce6e3b12",
   "lastOpenFiles": [
+    "Faculdade/Engenharia de Software.md",
     "Faculdade/Imagens/SWQualityFundamentals.jpg",
     "Faculdade/Case Study SIO.md",
     "Faculdade/Sistemas Distribuídos.md",
@@ -200,7 +201,6 @@
     "Faculdade/Imagens/ciclo de vida do produto.PNG",
     "Faculdade/Imagens/sequencia de fase de projeto.PNG",
     "Faculdade/Imagens/diferentes ciclos de software.PNG",
-    "Faculdade/Imagens/ciclo de vida de projetos.PNG",
     "Obsidian",
     "Excalidraw",
     "Faculdade/Imagens",
