@@ -11,8 +11,12 @@
             "id": "f8c75c74f7bafdd9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Sistemas Distribuídos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Faculdade/Sistemas Distribuídos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Faculdade/Sistemas Distribuídos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Faculdade/Sistemas Distribuídos.md"
+              }
             }
           }
         ]
@@ -141,13 +149,13 @@
   },
   "active": "f8c75c74f7bafdd9",
   "lastOpenFiles": [
-    "Faculdade/Sistemas Distribuídos.md",
-    "Faculdade/Sistemas de Informação organizacional.md",
     "Faculdade/Tipo de Sincronização.md",
-    "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
-    "Faculdade/Sincronização de Processos.md",
     "Faculdade/My University Note.md",
     "Faculdade/Modelos de Programação Distribuida.md",
+    "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
+    "Faculdade/Sistemas Distribuídos.md",
+    "Faculdade/Sistemas de Informação organizacional.md",
+    "Faculdade/Sincronização de Processos.md",
     "Faculdade/Processo (Sistemas operativos).md",
     "Faculdade/Processo.md",
     "Faculdade/Imagens/Pasted image 20241014111734.png",
