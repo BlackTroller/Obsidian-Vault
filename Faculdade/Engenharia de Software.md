@@ -51,13 +51,3 @@ lógica - um conjunto de ***razões*** ou uma base lógica para um curso de aç�
 
 Segundo o software engineering body of knowledge ou [[SWeBoK]] a [[qualidade]] de software está completamente dependente dos requisitos, estes influenciam as suas características de [[qualidade]] e os [[método]]s de cálculo e critérios de aceitação para avaliar estas características.
 
-#### Fundamentos de Qualidade de Software
-
-![[SWQualityFundamentals.jpg]]
-
-
-A qualidade de software é avaliada com base em normas específicas e **requisitos**, que podem ser explícitos ou implícitos, definindo as características necessárias para medir o desempenho e a fiabilidade do software. A ***norma ISO9126-01*** é um padrão que orienta a avaliação da **qualidade do produto**, enquanto ***normas como TickIT***, ***CMMI*** e ***ISO9001-00*** estão focadas na **qualidade do processo**.
-
-A **qualidade do produto** é analisada em três áreas principais. A *revisão do produto* foca-se na testabilidade, flexibilidade, manutenibilidade e integridade. A *operação do produto* considera a eficiência, fiabilidade, correção e usabilidade. Por fim, a *transição do produto* aborda a reutilização, interoperabilidade e portabilidade. Estes fatores são fundamentais para garantir que o software atende aos **requisitos funcionais** e de **desempenho** esperados.
-
-Por outro lado, a **qualidade do processo** desempenha um papel crucial na garantia de que as *práticas* utilizadas no desenvolvimento e manutenção do software estão alinhadas com padrões consistentes, contribuindo assim para a melhoria contínua do produto final. Este **modelo** é uma abordagem abrangente para compreender e **otimizar** a **qualidade** no desenvolvimento de software.
