@@ -96,7 +96,6 @@ Por outro lado, a **qualidade do processo** desempenha um papel crucial na garan
 ![[NEWISO.PNG]]
 
 
-
 #### Requisitos de Qualidade
 ***Apesar das varias definições, é consensual que:***
 
