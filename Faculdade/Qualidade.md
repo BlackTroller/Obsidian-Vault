@@ -89,6 +89,14 @@ A **qualidade do produto** é analisada em três áreas principais. A *revisão 
 
 Por outro lado, a **qualidade do processo** desempenha um papel crucial na garantia de que as *práticas* utilizadas no desenvolvimento e manutenção do software estão alinhadas com padrões consistentes, contribuindo assim para a melhoria contínua do produto final. Este **modelo** é uma abordagem abrangente para compreender e **otimizar** a **qualidade** no desenvolvimento de software.
 
+![[ISO9126.PNG]]
+
+* **A versão ISO/IEC 9126 é substuída por ISO/IEC 25010:2011** acrescentando o fator “compatability” e “performance”, redistribuindo algumas das sub-categorias
+
+![[NEWISO.PNG]]
+
+
+
 #### Requisitos de Qualidade
 ***Apesar das varias definições, é consensual que:***
 
