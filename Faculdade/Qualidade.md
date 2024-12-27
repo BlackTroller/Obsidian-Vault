@@ -93,3 +93,41 @@ Por outro lado, a **qualidade do processo** desempenha um papel crucial na garan
 ***Apesar das varias definições, é consensual que:***
 
 - Os [[requisitos de software]] definem as características de [[qualidade]] do software e influenciam os [[método]]s cálculo e critérios de aceitação para avaliar essas características.
+
+![[SWQualitySwebok.PNG]]
+
+The **IEEE Computer Society and the ACM (IEEE99)** desenvolveram um código de ética de práticas profissionais baseadas em *8 princípios que assistem os engenheiros de software a reforçar atitudes relacionadas com a qualidade* e com a independência do seu trabalho.
+
+![[IEEENorms.PNG]]
+
+* addictive design; 
+* corporate ownership of personal data; 
+* algorithmic bias; 
+ * Bias might be as bad as a virus. 
+ * ***Example: not to include Black people's voices in training AI speech recognion algorithms, under the belief that fewer Black people would use the app.***
+* Weak cyber security and personally identifiable information (PII) protection; 
+ * ***Developers only address security after code*** 
+* overemphasis on features. ***Some believe that capabilities in software releases are more important than the effects they could have.***
+
+#### Qualidade e Custos da Qualidade
+
+- A visão de quem usa:
+	**"Um Produto ou Serviço que faz o que o utilizador precisa"**
+
+* *Os Atributos de qualidade são (ou derivam ser) descritos na especificação de requisitos*
+
+ - Exemplos:
+	 - **Usabilidade** - Relativa facilidade de comunicação do utilizador com a aplicação
+	 - **Portabilidade** - Capacidade de o sistema trabalhar sob diferentes tipos de arquitetura
+	 - **Reusabilidade** na construção 
+
+- O custo da Qualidade de Software pode ser dividido em ($):
+	- Custos de **prevenção**
+	- Custos de **avaliação**
+	- Custos de **falhas internas**, e
+	- Custos de **falhas externas.**
+
+###### O que isso nos garante?
+- **A Gestão da Qualidade diminui os Custos.**
+- **Prevenir Custos** - conjunto de ações tomadas para prevenir os defeitos antes que eles apareçam
+- **Custos de inspeção** - Consistem em medir, avaliar 
