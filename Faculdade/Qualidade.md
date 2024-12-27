@@ -130,4 +130,9 @@ The **IEEE Computer Society and the ACM (IEEE99)** desenvolveram um código de �
 ###### O que isso nos garante?
 - **A Gestão da Qualidade diminui os Custos.**
 - **Prevenir Custos** - conjunto de ações tomadas para prevenir os defeitos antes que eles apareçam
-- **Custos de inspeção** - Consistem em medir, avaliar 
+- **Custos de inspeção** - Consistem em medir, avaliar e auditar produtos ou serviços para avaliar a conformidade com os padrões e especificações
+- **Custos de falhas internas** - consistem em *corrigir defeitos dos produtos* antes de serem "entregues"
+- **Custos de falhas externas** - consistem nos *defeitos descobertos depois do produtos ser entregue*
+	- Quantas mais falhas externas forem encontradas, mais desastroso será para a reputação da organização.
+
+
