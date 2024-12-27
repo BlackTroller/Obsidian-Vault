@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Engenharia de Software.md",
+                "file": "Faculdade/Modelo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Engenharia de Software"
+              "title": "Modelo"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Engenharia de Software.md",
+                "file": "Faculdade/Modelo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Engenharia de Software"
+              "title": "Backlinks for Modelo"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Engenharia de Software.md",
+                "file": "Faculdade/Modelo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Engenharia de Software"
+              "title": "Outgoing links from Modelo"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Engenharia de Software.md"
+                "file": "Faculdade/Modelo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Engenharia de Software"
+              "title": "Outline of Modelo"
             }
           }
         ]
