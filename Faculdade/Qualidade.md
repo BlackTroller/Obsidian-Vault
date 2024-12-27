@@ -78,3 +78,7 @@ O ***total quality management*** possui vários níveis:
 3. **Garantia de [[qualidade]]**; 
 4. **[[Qualidade]] Total**
 
+
+***Apesar das varias definições, é consensual que:***
+
+- Os [[requisitos de software]] definem as características de [[qualidade]] do software e influenciam os [[método]]s cálculo e critérios de aceitação para avaliar essas características.
