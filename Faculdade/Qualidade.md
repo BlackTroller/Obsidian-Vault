@@ -89,12 +89,14 @@ A **qualidade do produto** é analisada em três áreas principais. A *revisão 
 
 Por outro lado, a **qualidade do processo** desempenha um papel crucial na garantia de que as *práticas* utilizadas no desenvolvimento e manutenção do software estão alinhadas com padrões consistentes, contribuindo assim para a melhoria contínua do produto final. Este **modelo** é uma abordagem abrangente para compreender e **otimizar** a **qualidade** no desenvolvimento de software.
 
-
+#### Requisitos de Qualidade
 ***Apesar das varias definições, é consensual que:***
 
 - Os [[requisitos de software]] definem as características de [[qualidade]] do software e influenciam os [[método]]s cálculo e critérios de aceitação para avaliar essas características.
 
 ![[SWQualitySwebok.PNG]]
+
+#### Ética e Qualidade de Software
 
 The **IEEE Computer Society and the ACM (IEEE99)** desenvolveram um código de ética de práticas profissionais baseadas em *8 princípios que assistem os engenheiros de software a reforçar atitudes relacionadas com a qualidade* e com a independência do seu trabalho.
 
@@ -134,5 +136,18 @@ The **IEEE Computer Society and the ACM (IEEE99)** desenvolveram um código de �
 - **Custos de falhas internas** - consistem em *corrigir defeitos dos produtos* antes de serem "entregues"
 - **Custos de falhas externas** - consistem nos *defeitos descobertos depois do produtos ser entregue*
 	- Quantas mais falhas externas forem encontradas, mais desastroso será para a reputação da organização.
+
+#### Gestão de Qualidade
+
+* Algumas medidas de qualidade incluem:
+	* *Estruturação de um [[processo]] de desenvolvimento com [[método]]s, técnicas e ferramentas*
+* Programa de gestão de qualidade inclui:
+	* **Documentação** de padrões de código
+	* **[[Método]]s**
+	* **Ferramentas**
+	* Procedimento de recuperação de dados 
+	* **Gestão de configurações**
+	* Documentação dos defeitos encontrados
+	* **Rastreabilidade**
 
 
