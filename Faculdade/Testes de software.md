@@ -67,4 +67,11 @@ Para identificar que tipo de teste efetuar, o ***“test target“***, ou seja, 
 - O uso do termo **defeito** está também associado com artefactos de software, tais como documentos de requisitos e projeto 
 - Os **defeitos** que ocorrem nos artefactos são causados por erros e são normalmente detetados no [[processo]] de revisão.
 
- 
+###### Falha/Fracasso (Failure)
+
+- Fracasso é a **incapacidade de um sistema ou componente de software executar as funções que lhe são requeridas**, dentro dos requisitos de desempenho especificado 
+- Por ***exemplo***, durante a execução de um componente ou sistema de software, um tester, “desenvolvedor”, ou utilizador ***observa que este não produz os resultados esperados***.
+- Comportamento incorreto pode incluir produzir valores incorretos para variáveis de saída, etc...
+- Um defeito no código não produz sempre um fracasso...
+- ***Na realidade, software defeituoso pode operar durante grandes períodos de tempo sem exibir qualquer comportamento incorreto.***
+- 
