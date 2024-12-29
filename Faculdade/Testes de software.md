@@ -29,3 +29,22 @@ Para identificar que tipo de teste efetuar, o ***“test target“***, ou seja, 
 8. ***Testabilidade:***
 	   O termo a ***“testabilidade do software“*** em engenharia de software pode ter dois significados: pode significar que o software é **fácil de testar tendo em conta os critérios definidos** para o testar ou ***ainda a possibilidade de medir, estatisticamente, a probabilidade*** que um caso de testes tem de **falhar ou ser bem sucedido**, ambos os significados são importantes.
 
+#### O especialista de Testes
+
+- Alguém cuja formação está baseada nos princípios, práticas, e [[processo]]s que constituem a disciplina de [[engenharia de software]], e cujo, foco específico está na área de ***“software testing”***.
+- Deverá ter conhecimento de princípios relacionados com testes, [[processo]]s, medidas, standards, planos, [[ferramenta]]s, e [[método]]s, e deverá aprender como aplicá-los às tarefas de teste a serem executadas
+
+#### O papel de ‘[[Processo]]’ na qualidade de SW...
+
+* Processo, no domínio da engenharia de software é:
+	* o conjunto de **[[método]]s, práticas, standards, documentos, atividades, políticas, e procedimentos** que os engenheiros de software usam para desenvolver e manter um sistema de software e os seus artefactos associados, tais como planos de projeto e teste, documentos de projeto, código e manuais.
+
+##### Processo de desenvolvimento de SW e Testes
+- No processo de desenvolvimento de software existem vários processos incluindo o "Testing"
+	- Está relacionado com outros dois processos:
+		- **Verificação (Foco no [[Processo]])**
+			- É o processo de avaliar um sistema ou componente de software para determinar se os produtos de uma determinada fase de desenvolvimento satisfazem as condições impostas no começo dessa fase (associado a atividades de inspeção, revisão)
+		- **Validação (Foco no [[Produto]])**
+			- É o processo de avaliar um sistema ou componente de software durante, ou no final, do ciclo de desenvolvimento para determinar se satisfaz os requisitos especificados
+
+
