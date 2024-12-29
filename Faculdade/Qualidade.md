@@ -87,6 +87,8 @@ A qualidade de software é avaliada com base em normas específicas e **requisit
 
 A **qualidade do produto** é analisada em três áreas principais. A *revisão do produto* foca-se na testabilidade, flexibilidade, manutenibilidade e integridade. A *operação do produto* considera a eficiência, fiabilidade, correção e usabilidade. Por fim, a *transição do produto* aborda a reutilização, interoperabilidade e portabilidade. Estes fatores são fundamentais para garantir que o software atende aos **requisitos funcionais** e de **desempenho** esperados.
 
+![[qualidade do produto.PNG]]
+
 Por outro lado, a **qualidade do processo** desempenha um papel crucial na garantia de que as *práticas* utilizadas no desenvolvimento e manutenção do software estão alinhadas com padrões consistentes, contribuindo assim para a melhoria contínua do produto final. Este **modelo** é uma abordagem abrangente para compreender e **otimizar** a **qualidade** no desenvolvimento de software.
 
 ![[ISO9126.PNG]]
@@ -157,4 +159,44 @@ The **IEEE Computer Society and the ACM (IEEE99)** desenvolveram um código de �
 	* Documentação dos defeitos encontrados
 	* **Rastreabilidade**
 
+##### Comparação Fatores Qualidade
+
+![[CompareFatoresQualidade.PNG]]
+
+##### Qualidade do Produto
+
+A qualidade do produto de software pode ser melhorada **através de um [[processo]] iterativo de melhoria contínua** que inclui:
+
+- **Controlo da Gestão**;
+- **Coordenação** e
+- **feedback** dos vários processos concorrentes, nomeadamente:
+	- o [[processo]] do ciclo de vida do software
+	- o [[processo]] de deteção de erros/defeitos, prevenção e remoção
+	- o [[processo]] de melhoria da [[qualidade]]
+
+##### Qualidade Total
+
+![[TQM.PNG]]
+
+##### TQM - Níveis de Qualidade
+
+1. **Inspeção** - Verificação pelo respeito das especificações internas em vigor
+2. **Controlo de Qualidade** - conjunto de *inspeções, revisões* e *testes* utilizados durante o ciclo de desenvolvimento para assegurar que cada produto de trabalho cumpre requisitos previstos. Baseia-se na medição e "feedback"
+3. **Garantia de Qualidade** - Baseada na ***prevenção do problema*** e não na sua deteçao. Consiste em auditorias (avaliações periódicas) e divulgação dessa informação à gestão
+4. **Qualidade Total**
+	* A qualidade é definida pelo cliente (ou junto com o cliente)
+	* A qualidade representa uma **vantagem competitiva**
+	* A qualidade é **parte integrante do processo de planeamento estratégico**
+	* A qualidade **requer o comprometimento** de todos os recursos humanos da empresa
+
+###### Qualidade de software - disciplina
+
+É uma área de conhecimento da Engenharia de Software que tem como objetivo garantir a qualidade do software através da ***definição e normalização de processos*** de desenvolvimento
+
+###### Qualidade de software - foco
+
+- A definição anterior aponta 3 pontos importantes: 
+	- **Os requisitos do software** são a base a partir da qual a qualidade é medida. Falta de conformidade com os requisitos é falta de qualidade. 
+	- **Normas especificadas** definem um conjunto de critérios para o desenvolvimento que orientam o modo como o software é desenvolvido. Se os critérios não são seguidos a falta de qualidade resultará, muito provavelmente. Normas e critérios relacionados com a cultura empresarial. 
+	- Há um conjunto de ***requisitos implícitos*** que nunca são mencionados (p.ex., facilidade de manutenção). Se o software falha a conformidade com estes requisitos implícitos, a qualidade é “suspeita”.
 
