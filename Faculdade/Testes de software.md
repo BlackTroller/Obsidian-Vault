@@ -55,7 +55,16 @@ Para identificar que tipo de teste efetuar, o ***“test target“***, ou seja, 
 ##### Conceitos e definições básicos
 
 ###### Erros
-- •Um **erro** é um engano, uma ideia errada/equívoco, ou interpretação errada/má compreensão por parte de um “desenvolvedor” de software
-- Na categoria de “desenvolvedor” incluímos engenheiros de software, programadores, analistas e os testers.
-	- Exemplo: um “desenvolvedor” entender mal a notação de desenho, um programador digitar o nome de uma variável incorretamente
 
+- Um **erro** é um engano, uma ideia errada/equívoco, ou interpretação errada/má compreensão por parte de um *“desenvolvedor”* de software
+- Na categoria de *“desenvolvedor”* incluímos engenheiros de software, programadores, analistas e os testers.
+	- Exemplo: um *“desenvolvedor”* entender mal a notação de desenho, um programador digitar o nome de uma variável incorretamente
+###### Defeitos (Faults/Defects)
+
+- Um **defeito** é introduzido no software como resultado de um **erro**. É uma anomalia no software que pode fazer com que este se comporte incorretamente, e não conforme a sua especificação.
+- São por vezes chamados *“bugs“* 
+- O uso do termo *“bug”* trivializa o impacto do defeito em termos da [[qualidade]] de software... 
+- O uso do termo **defeito** está também associado com artefactos de software, tais como documentos de requisitos e projeto 
+- Os **defeitos** que ocorrem nos artefactos são causados por erros e são normalmente detetados no [[processo]] de revisão.
+
+ 
