@@ -74,4 +74,20 @@ Para identificar que tipo de teste efetuar, o ***“test target“***, ou seja, 
 - Comportamento incorreto pode incluir produzir valores incorretos para variáveis de saída, etc...
 - Um defeito no código não produz sempre um fracasso...
 - ***Na realidade, software defeituoso pode operar durante grandes períodos de tempo sem exibir qualquer comportamento incorreto.***
-- 
+
+
+- Qual abordagem usual para detetar defeitos numa parte de software? .... 
+- Para decidir se o software passa ou não no teste, o tester precisa de conhecer os outputs para o software, dado um conjunto de inputs e condições de execução 
+- O Tester junta esta informação num item chamado ***“caso de teste“***
+- Um **caso de teste** é num sentido prático um item relacionado com teste, que contem a seguinte informação 
+	- **Um conjunto de entradas de teste**: são dados recebidos de uma fonte externa pelo código em teste. A fonte externa pode ser hardware, software, ou humana
+	- **Condições de execução**: são condições requeridas para executar o teste, por exemplo, um certo estado de uma base de dados, ou uma configuração de um dispositivo de hardware 
+	- **Saídas esperadas**: São os resultados especificados para serem produzidos pelo código em teste.
+
+
+###### O que é um teste?
+- •É um grupo de casos de teste relacionados, ou um grupo de casos de teste e procedimentos relacionados 
+- **Test Oracle** : É um documento, ou parte de software que permite aos testers determinar se um teste passou ou falhou (um programa, ou um documento que produz ou específica o resultado esperado de um teste, pode servir como um oracle) 
+- **Test Bed**: é um ambiente que contém todo o hardware e software necessário para testar um componente de software ou um sistema de software 
+	- Este incluí o ***ambiente de teste completo***, ou seja, tudo o que e necessário para apoiar a execução dos testes (por exemplo: simuladores, [[ferramenta]]s de software, etc....)
+
