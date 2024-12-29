@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Testing.md",
+                "file": "Faculdade/Testes de software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing"
+              "title": "Testes de software"
             }
           }
         ]
@@ -165,11 +165,12 @@
   },
   "active": "cb270a2c7be5b656",
   "lastOpenFiles": [
+    "Faculdade/Imagens/modelo de maturidade.PNG",
+    "Faculdade/Testing.md",
     "Faculdade/Imagens/insCod.PNG",
     "Faculdade/Imagens/testevsdebug.PNG",
     "Faculdade/Testes de software.md",
     "Faculdade/Qualidade.md",
-    "Faculdade/Testing.md",
     "Faculdade/Imagens/testing.PNG",
     "Faculdade/Sistemas operativos.md",
     "Faculdade/Sistemas Distribuídos.md",
@@ -185,7 +186,6 @@
     "Faculdade/Engenharia de Software.md",
     "Faculdade/Sincronização de Processos.md",
     "Faculdade/Modelo.md",
-    "Faculdade/Imagens/SWQualityFundamentals.jpg",
     "Faculdade/Case Study SIO.md",
     "Faculdade/Tipo de Sincronização.md",
     "Faculdade/My University Note.md",

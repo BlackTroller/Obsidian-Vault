@@ -23,7 +23,17 @@
 ![[insCod.PNG]]
 
 
-- examinação (estática) da fonte* com o intuito de descobrir problemas 
+- examinação (estática) da fonte*(Não necessariamente código fonte. Pode ser a representação fonte ou base dos requisitos.) com o intuito de descobrir problemas 
 - não requer a execução do sistema 
 - esta observação/examinação pode ser aplicada a **requisitos, design, dados de configuração, dados de teste, etc...**
-- na realidade é uma boa técnica para descoberta de erros
+- *na realidade é uma boa técnica para descoberta de erros.*
+
+
+- Durante a execução há erros que “encobrem” outros erros 
+- Não há a necessidade e/ou preocupação com interações 
+- Versões incompletas podem ser inspecionadas 
+- Aquando da inspeção podemos considerar outros atributos da qualidade como por exemplo: conformidade com standards, padrões, portabilidade etc...
+- Contudo, as inspeções não conseguem avaliar a conformidade com os requisitos reais do cliente nem questões relacionadas com usabilidade e performance 
+- **SW Inspections** e **Software Testing** são complementares
+
+
