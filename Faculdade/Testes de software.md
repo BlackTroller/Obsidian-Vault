@@ -91,3 +91,23 @@ Para identificar que tipo de teste efetuar, o ***“test target“***, ou seja, 
 - **Test Bed**: é um ambiente que contém todo o hardware e software necessário para testar um componente de software ou um sistema de software 
 	- Este incluí o ***ambiente de teste completo***, ou seja, tudo o que e necessário para apoiar a execução dos testes (por exemplo: simuladores, [[ferramenta]]s de software, etc....)
 
+![[conceptTeste.PNG]]
+
+
+![[conceptTeste2.PNG]]
+
+###### Testes Unitários
+- **Os diversos componentes são codificados e testados de forma isolada**, garantindo assim a respetiva correção interna. Incidem sobre parcelas do sistema, e são realizados por cada programador de forma independente.
+	- Testes baseados na experiência, especificações e código;
+	- O principal objetivo é detetar defeitos funcionais e estruturais em parcelas de código.
+
+###### Testes de Integração 
+- **testes parcelares, que vários programadores realizam conjuntamente** com vista a garantir que vários componentes interactuam entre si de forma adequada.
+	- Testes de grupos integrados de componentes, integrados para criar um subsistema;
+	- O principal objetivo é detetar defeitos que ocorrem nas interfaces das unidades e no seu comportamento comum.
+
+###### Testes de Sistema
+- **testes globais em que todos os componentes do sistema são integrados**; possibilitam a verificação da conformidade do sistema com todos os requisitos definidos.
+	- Normalmente são da responsabilidade de uma equipa de teste independente; 
+	- São normalmente baseados num documento de requisitos (requisitos/especificações funcionais e requisitos de [[qualidade]]) 
+	- O principal objetivo é avaliar atributos tais como usabilidade, fiabilidade e desempenho (assumindo que os testes unitários e de integração foram realizados);
