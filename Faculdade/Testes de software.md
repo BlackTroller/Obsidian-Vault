@@ -57,5 +57,5 @@ Para identificar que tipo de teste efetuar, o ***“test target“***, ou seja, 
 ###### Erros
 - •Um **erro** é um engano, uma ideia errada/equívoco, ou interpretação errada/má compreensão por parte de um “desenvolvedor” de software
 - Na categoria de “desenvolvedor” incluímos engenheiros de software, programadores, analistas e os testers.
-	- •Exemplo: um “desenvolvedor” entender mal a notação de desenho, um programador digitar o nome de uma variável incorretamente
+	- Exemplo: um “desenvolvedor” entender mal a notação de desenho, um programador digitar o nome de uma variável incorretamente
 
