@@ -40,7 +40,7 @@ Para identificar que tipo de teste efetuar, o ***“test target“***, ou seja, 
 	* o conjunto de **[[método]]s, práticas, standards, documentos, atividades, políticas, e procedimentos** que os engenheiros de software usam para desenvolver e manter um sistema de software e os seus artefactos associados, tais como planos de projeto e teste, documentos de projeto, código e manuais.
 
 ##### Processo de desenvolvimento de SW e Testes
-- No processo de desenvolvimento de software existem vários processos incluindo o "Testing"
+- No processo de desenvolvimento de software existem vários processos incluindo o "[[Testing]]"
 	- Está relacionado com outros dois processos:
 		- **Verificação (Foco no [[Processo]])**
 			- É o processo de avaliar um sistema ou componente de software para determinar se os produtos de uma determinada fase de desenvolvimento satisfazem as condições impostas no começo dessa fase (associado a atividades de inspeção, revisão)
