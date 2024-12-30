@@ -62,3 +62,14 @@ Classes de equivalência:
 	- Se as condições de entrada especificarem um intervalo entre a e b, os casos de testes deverão incluir a e b, bem como valores acima e abaixo de a e b.
 	- Se a condição de entrada especificar um número de valores, os casos de teste deverão contemplar o valor máximo e mínimo desses valores, bem como valores abaixo e acima do valor mínimo e do valor máximo.
 	- Se as estruturas de dados internas do programa tiverem limites (e.g. limite de tamanho), o “tester” deverá certificar-se de que testa os limites.
+###### BVA - Partições segundo as condições
+- **P1 - Entradas de acordo com as pré-condições (válida)**
+	- array com um valor (valor limite) 
+	- array com mais de um valor (de diferente tamanho de caso de teste para caso de teste)
+- **P2 - Entradas em que a pré-condição não é assegurada (inválida)**
+	- array com tamanho zero
+- **P3 - Entradas em que o elemento chave é membro do array**
+	- alternar a primeira, a última e a posição do meio em diferentes casos de teste.
+- **P4 - Entradas em que o elemento chave não é membro do array**
+
+	
