@@ -109,5 +109,31 @@ Para identificar que tipo de teste efetuar, o ***“test target“***, ou seja, 
 ###### Testes de Sistema
 - **testes globais em que todos os componentes do sistema são integrados**; possibilitam a verificação da conformidade do sistema com todos os requisitos definidos.
 	- Normalmente são da responsabilidade de uma equipa de teste independente; 
-	- São normalmente baseados num documento de requisitos (requisitos/especificações funcionais e requisitos de [[qualidade]]) 
+	- São normalmente baseados num documento de requisitos (requisitos/especificações funcionais e requisitos de [[qualidade]]);
 	- O principal objetivo é avaliar atributos tais como usabilidade, fiabilidade e desempenho (assumindo que os testes unitários e de integração foram realizados);
+
+###### Testes de Aceitação
+- testes formais que os utilizadores realizam sobre o sistema. Quando o sistema passa este (difícil!!!) teste, o cliente deverá aceitar o sistema como ***“pronto”*** e consequentemente este pode ser colocado em produção, ou operação, efetiva.
+	- O principal objetivo é avaliar se o produto vai de encontro aos requisitos do cliente e expectativas.
+
+**Ciclo de vida dos testes**
+![[ciclo de vida dos testes.PNG]]
+
+##### Tipos de Testes
+- **Testes de desempenho**: permitem analisar o tempo de resposta do sistema e, dum modo geral, verificar o nível de utilização de recursos disponíveis
+- **Testes de usabilidade**: permitem analisar a adequabilidade do desenho das interfaces homem-máquina e constatar se o sistema é fácil de utilizar 
+- **Testes funcionais**: permitem determinar a correção da implementação de funcionalidades, conforme especificadas pelos correspondentes requisitos funcionais 
+- **Testes de segurança**: nos testes de segurança estamos à procura de um comportamento anómalo que não sabemos quando acontece….Precaver contra ataques; Garantir robustez do software face a determinados ataques típicos; Detetar vulnerabilidades; Preparar medidas de contingência; Oferecer maior valor acrescentado ao cliente; …
+- **Testes de robustez**: o objetivo é determinar o comportamento de um sistema em situações hostis. Normalmente pensados em conjunto com os testes de segurança.
+- **Testes de fiabilidade**: o objetivo é avaliar a capacidade de um sistema de software desempenhar as suas funções sob determinadas condições num determinado período de tempo.
+
+##### Do plano ao Relatório
+###### Preparação dos testes
+- **Test Plan; Test Design Specication; Test Case Specication; Test Procedure; Test Item Transmittal Report**
+###### Execução dos testes
+- Test Log; Test Incident Report
+###### Finalização dos testes
+- Test Summary Report
+
+![[testSummaryReport.PNG]]
+
