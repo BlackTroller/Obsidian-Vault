@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Caixa Preta.md",
+                "file": "Faculdade/Caixa Branca.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caixa Preta"
+              "title": "Caixa Branca"
             }
           }
         ]
@@ -165,21 +165,20 @@
   },
   "active": "cb270a2c7be5b656",
   "lastOpenFiles": [
+    "Faculdade/Caixa Branca.md",
+    "Faculdade/Imagens/critérios de adequação.PNG",
+    "Faculdade/Caixa Preta.md",
     "Faculdade/Imagens/causaEfeito2.PNG",
     "Faculdade/Imagens/causaEfeito1.PNG",
     "Faculdade/Imagens/ECPExemplo.PNG",
     "Faculdade/Testes de software.md",
     "Faculdade/Imagens/whiteboxvsblackbox.PNG",
     "Pasted image 20241230132157.png",
-    "Faculdade/Caixa Branca.md",
-    "Faculdade/Caixa Preta.md",
     "Faculdade/Imagens/testSummaryReport.PNG",
     "Faculdade/Imagens/ciclo de vida dos testes.PNG",
     "Faculdade/Imagens/conceptTeste2.PNG",
     "Faculdade/Imagens/conceptTeste.PNG",
-    "Faculdade/Imagens/modelo de maturidade.PNG",
     "Faculdade/Testing.md",
-    "Faculdade/Imagens/insCod.PNG",
     "Faculdade/Qualidade.md",
     "Faculdade/Sistemas operativos.md",
     "Faculdade/Sistemas Distribuídos.md",
