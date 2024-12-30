@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/My University Note.md",
+                "file": "Faculdade/Qualidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My University Note"
+              "title": "Qualidade"
             }
           }
         ]
@@ -165,11 +165,13 @@
   },
   "active": "21a16e6011483034",
   "lastOpenFiles": [
+    "Faculdade/Caixa Preta.md",
+    "Faculdade/Caixa Branca.md",
+    "Faculdade/Testing.md",
+    "Faculdade/Testes de software.md",
+    "Faculdade/Perguntas Exame.md",
     "Faculdade/My University Note.md",
     "Faculdade/Princípios de Segurança.md",
-    "Faculdade/Testes de software.md",
-    "Faculdade/Caixa Branca.md",
-    "Faculdade/Caixa Preta.md",
     "Faculdade/Untitled.md",
     "Faculdade/Imagens/Pasted image 20241230145539.png",
     "Faculdade/Imagens/cobertura de expressões.PNG",
@@ -181,7 +183,6 @@
     "Faculdade/Imagens/whiteboxvsblackbox.PNG",
     "Pasted image 20241230132157.png",
     "Faculdade/Imagens/testSummaryReport.PNG",
-    "Faculdade/Testing.md",
     "Faculdade/Qualidade.md",
     "Faculdade/Sistemas operativos.md",
     "Faculdade/Sistemas Distribuídos.md",
@@ -200,7 +201,6 @@
     "Faculdade/Sistema de ficheiros.md",
     "Faculdade/Metodologia.md",
     "Faculdade/Ambiente.md",
-    "Faculdade/Periféricos.md",
     "Obsidian",
     "Excalidraw",
     "Faculdade/Imagens",
