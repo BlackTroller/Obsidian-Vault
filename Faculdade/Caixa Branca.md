@@ -37,3 +37,53 @@
 - No entanto, contrariamente ao que acontece na abordagem de [[caixa preta]], os objetivos de cobertura de [[caixa branca]] têm forte apoio quer teórico quer prático.
 
 ##### Análise de Cobertura
+- Análise de cobertura está tipicamente **associada com a utilização de modelos de controlo de fluxo** de dados para representar elementos estruturais e dados do programa
+- Os **elementos lógicos** normalmente **considerados** para cobertura são baseados no fluxo de controlo do componente de software em teste
+	- Expressões
+	- Decisões / ramos (estas influenciam o fluxo de controlo do programa) 
+	- Condições (expressões que avaliam verdadeiro/falso) 
+	- Combinações de decisões e condições 
+	- Caminhos (consequências de nodos nos gráficos de fluxo)
+
+##### Elementos Lógicos
+- Os gráficos de controlo de fluxo podem ser usados pelo “tester” para avaliar o código, e desenvolver casos de teste de caixa branca
+- Num programa podemos ter:
+
+![[elementos lógicos.PNG]]
+
+##### Controlo de Fluxos
+***Esta representação facilita o desenho de “testes de caixa branca”***
+
+- Por questões de simplicidade, as expressões sequenciais são frequentemente omitidas ou combinadas num único bloco, que indica que se a 1ª expressão do bloco é executada, também são todas as que se seguem.
+- Existem [[ferramenta]]s que geram estes gráficos
+- Os “testers” podem usar [[ferramenta]]s para apoiar o desenvolvimento dos gráficos, especialmente para partes do código complexas
+
+##### Cobertura de Expressões
+- Vamos definir um possível caso de teste que satisfaz 100% da cobertura:
+	- Todas as expressões (1 a 8) são executadas no caso de teste
+	- **Note-se que**: podem existir diversos conjuntos de casos de teste que satisfaçam o critério…
+
+![[cobertura de expressões.PNG]]
+
+##### Cobertura de Condições
+- Condition Coverage (Cobertura de Condições)
+- desenhar casos de teste de tal modo que **cada resultado possível de cada condição, numa condição composta ocorre pelo menos uma vez**
+- Exemplo:
+	- decisão (i<N) AND (result <=maxint)
+		- consiste em duas condições: (i<N) e (result <= maxint)
+	- Devem ser desenhados casos de teste de tal modo que **cada condição assume o valor verdadeiro e falso pelo menos uma vez**
+	- Note-se que os últimos casos de teste dos slides anteriores já garantem cobertura de condições (e ramos).
+##### Cobertura de Caminhos Independentes
+- Independent path coverage (Cobertura de caminhos independentes)
+	- gerar um caso de teste para cada caminho independente
+	- O número de caminhos linearmente independentes é dado pela McCabe’s cyclomatic complexity do programa V(G)
+
+![[Pasted image 20241230145539.png]]
+
+##### Cobertura de Caminhos
+- Path coverage (Cobertura de caminhos)
+	- executar todos os caminhos possíveis de um programa
+	- critério de caixa-branca forte (baseado na análise de controlo de fluxo)
+- Normalmente impossíveis: infinidade de caminhos (em caso de ciclo)
+- Portanto, não são uma opção realística
+- 
