@@ -263,3 +263,5 @@ Para identificar que tipo de teste efetuar, o ***“test target“***, ou seja, 
 - A estratégia de ***“[[caixa preta]]”*** pode ser usada tanto para componentes de software grandes como pequenos
 - Os testes de ***“[[caixa branca]]”*** são mais apropriados para testar componentes pequenos (pelo facto do detalhe requerido para o desenho do teste ser muito elevado)
 
+![[whiteboxvsblackbox.PNG]]
+
