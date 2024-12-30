@@ -72,4 +72,51 @@ Classes de equivalência:
 	- alternar a primeira, a última e a posição do meio em diferentes casos de teste.
 - **P4 - Entradas em que o elemento chave não é membro do array**
 
-	
+##### A reter
+- Casos de Teste baseados em ***Argumentos de Entrada***
+- Um argumento de entrada é aquele usado por uma operação 
+- O “tester” deve criar casos de teste usando argumentos de entrada para cada operação, de acordo com cada uma das seguintes condições de entrada 
+	- Valores normais de cada classe de equivalência 
+	- Valores na fronteira de cada classe de equivalência 
+	- Valores fora das classes de equivalência
+	- Valores inválidos: 
+		- Nota: tratar o estado do objeto como um argumento de entrada. Se, por exemplo, se testar uma operação de adição de acordo com um Conjunto de objetos, deve-se testar a adição com valores de todas as classes de equivalência do Conjunto, ou seja, com um Conjunto completo, com algum elemento no Conjunto e com um Conjunto vazio.
+
+- Casos de Teste baseados em ***Argumentos de Saída*** 
+- Um argumento de saída é aquele que é alterado por uma operação. 
+- Um argumento pode ser de entrada ou de saída. O “tester” deverá selecionar a entrada de modo a que a saída esteja de acordo com o seguinte: 
+	- Valores normais de cada classe de equivalência 
+	- Valores na fronteira para cada classe de equivalência 
+	- Valores fora das classes de equivalência 
+	- Valores inválidos: 
+		- Nota: tratar o estado do objeto como um argumento de saída. Se, por exemplo, se testar uma operação de exclusão em uma Lista, deve-se escolher valores de entrada de modo que a Lista que cheia, contenha algum elemento ou que vazia após a execução da operação (teste com valores de todas as respetivas classes de equivalência).
+
+##### Análise Causa-Efeito
+- O grafo de causa-efeito, **é uma técnica que oferece uma representação concisa das condições lógicas e das ações correspondentes**.
+- Técnica para análise ***de combinações das condições de entrada***. **Identifica causas** ( entradas ou estados iniciais) **e efeitos** (saídas ou estados finais) 
+- A técnica segue quatro passos básicos:
+	- Causas (condições de entrada) e efeitos (ações) são relacionados com um módulo e um identificador é atribuído a cada um.
+	- Um grafo de causa-efeito é desenvolvido. As causas e efeitos são conectados através de arcos e notações lógicas do tipo and (^) ou not (\ \ )
+	- O grafo é convertido numa tabela de decisão. 
+	- As regras da tabela de decisão são convertidas em casos de teste.
+
+![[causaEfeito1.PNG]]
+
+
+**Exemplo**
+###### identificação das causas e efeitos
+![[causaEfeito2.PNG]]
+
+##### Random Testing
+- Valores são gerados aleatoriamente, mas
+	- serão os inputs suficientes?
+	- se fossem outros os resultados seriam melhores? 
+	- será que os valores escolhidos conseguem evidenciar uma percentagem aceitável de defeitos que possam existir?
+- De facto este tipo de testes poupam tempo e esforço mas revelam pouca eficiência
+##### Error Guessing
+- Consiste apenas em “adivinhar” onde os erros se encontram 
+- Depende da intuição e experiência do “tester 
+- Ad hoc 
+- na realidade não chega a ser considerada uma técnica 
+- mas poderá ter resultados bastante positivo 
+- Tipicamente cria-se uma lista de possíveis erros e criam-se casos de testes em função dessa lista
