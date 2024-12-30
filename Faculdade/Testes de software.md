@@ -137,3 +137,77 @@ Para identificar que tipo de teste efetuar, o ***“test target“***, ou seja, 
 
 ![[testSummaryReport.PNG]]
 
+#### Documentação relacionada como testes
+
+##### IEEE 829 - Test Plan
+- what has to be done
+- to what quality standard
+- with what resource
+- to what time scale,
+- and outlines the risk how they would be overcome
+
+##### IEEE 829 - Test Design specification
+- the first stage in developing the tests for a software testing project
+- derived from the documents that come into the testing stage, such as requirements and design 
+- records which features of a test item are to be tested, and how a successful test of these features would be recognize 
+- The test design does not record the values to be entered for a test, but describes the requirement for defining values
+
+##### IEEE 829 - Test Case Specification
+- The test cases are produced when the test design is completed. Test cases specify for each testing requirement:
+	- The exact input values that will be input and the values of any standing data that is required 
+	- The exact output values and changes of value of the internal system state that are expected and any special steps for setting up the tests 
+- A feature from the Test Design may be tested in more than one Test Case, and a Test Case may test more than one feature. The aim is for a set of test cases to test each feature from the Test Design at least once.
+
+##### IEEE 829 - Test Procedure Specification
+- developed from both the Test Design and the Test Case Specication. 
+- describes how the tester will physically run the test, the physical set-up required, and the procedure steps that need to be followed 
+- The standard defines 10 procedure steps that may be applied when running a test.
+
+##### IEEE 829 - Test Item Transmittal Report
+- In User Acceptance Testing this may be the completion of System Testing.
+- It describes the items being delivered for testing, where to nd them, what is new about them, and gives approval for their release
+
+##### IEEE 829 - Test Log
+- The Test Log records the details of what Test Cases have been run, the order of their running, and the results of the test 
+- The results are either the test passed, meaning that the actual and expected results were identical, or it failed and that there was a discrepancy
+
+##### IEEE 829 - Test Incident Report
+- The report consists of all details of the incident such as actual and expected results, when it failed, and any supporting evidence that will help in its resolution. The report will also include, if possible, an assessment of the impact upon testing of an incident. 
+- Includes the expected results being wrong, the test being run wrongly, or inconsistency in the requirements meaning that more than one interpretation could be made.
+
+##### IEEE 829 - Test Summary
+- The Test Summary brings together all pertinent information about the testing, including an assessment about how well the testing has been done, the number of incidents raised and outstanding, and crucially an assessment about the quality of the system. Also recorded for use in future project planning is details of what was done, and how long it took
+- This document is important in deciding whether the quality of the system is good enough to allow it to proceed to another stage
+
+#### Plano de testes
+- **Norma ANSI/IEEE 829-1998** para Documentação de testes de software define plano de testes como: 
+	- Um documento que define o **âmbito, abordagem, recursos e escalonamento** (planeamento) **das atividades de teste previstas**. Identifica ***itens de teste, as funcionalidades*** a serem testadas, as tarefas de teste, quem executará cada tarefa, e quaisquer riscos que requeiram planos de contingência
+- Planos de teste são **documentos extensos**, normalmente compostos por vários documentos mais pequenos
+
+- **O plano de testes como um [[produto]]**
+	- Um bom plano de testes ajuda a organizar e gerir o esforço de teste 
+	- Muitos planos de teste ultrapassam este âmbito, e tornam-se num produto por si só 
+	- A estrutura, formato, e nível de detalhe são determinados não só pelo que se entende como mais apropriado para eficácia das tarefas de teste, mas também pelos requisitos do cliente ou entidade reguladora
+
+- **Plano de testes: [[Produto]] ou [[Ferramenta]]?**
+	- O que os clientes normalmente querem é programas que funcionem corretamente 
+	- Os clientes tipicamente não estão interessados nos testes efetuado 
+	- Os clientes estão interessados na forma como o programa funciona 
+	- Para estes clientes, o plano de testes não é um produto 
+	- Um plano de testes é uma ferramenta valiosa na medida em que ajuda a gerir o projeto de testes e a encontrar falhas do programa.
+
+- **O Plano de testes como uma [[Ferramenta]]
+	- A norma ANSI/IEEE 829 requer
+		- especificações da conceção de testes 
+		- especificação dos casos de teste 
+		- registos de teste 
+		- especificação dos procedimentos de teste 
+		- relatórios dos teste 
+		- especificações de entrada/saída 
+		- especificação de requisitos de procedimentos especiais 
+		- notas sobre a dependência entre casos
+		- listas de documentos a serem elaborados após testes 
+		- escalonamento (planeamento) dos testes 
+		- planeamento de recursos humanos 
+		- lista (escrita) de responsabilidades de cada elemento da equipa 
+		- critérios para a suspensão e reactivação dos teste
