@@ -197,7 +197,7 @@ Para identificar que tipo de teste efetuar, o ***“test target“***, ou seja, 
 	- Um plano de testes é uma ferramenta valiosa na medida em que ajuda a gerir o projeto de testes e a encontrar falhas do programa.
 
 - **O Plano de testes como uma [[Ferramenta]]
-	- A norma ANSI/IEEE 829 requer
+	- A norma ***ANSI/IEEE 829*** requer
 		- especificações da conceção de testes 
 		- especificação dos casos de teste 
 		- registos de teste 
@@ -210,4 +210,56 @@ Para identificar que tipo de teste efetuar, o ***“test target“***, ou seja, 
 		- escalonamento (planeamento) dos testes 
 		- planeamento de recursos humanos 
 		- lista (escrita) de responsabilidades de cada elemento da equipa 
-		- critérios para a suspensão e reactivação dos teste
+		- critérios para a suspensão e reativação dos teste
+
+- **Secções do plano de testes (IEEE Standard 829)** 
+	- Identificador do plano de testes 
+		- Nome ou número único, que identifica o projeto 
+	- Introdução 
+		- Descrição do objetivo do plano de testes. Inclui referências a todas as 
+		- normas e documentos relevantes na definição da política seguida 
+	- Itens de teste 
+		- Lista de todos os componentes do programa ( função, módulo, classe, método, etc.) que vão ser testados, incluindo os documentos de referência. Se apropriado, listar o que **NÃO** vai ser testado 
+	- Características a serem testadas 
+		- Referenciadas às especificações do desenho (conceção) do teste 
+	- Características que não vão ser testada 
+		- Quais, e porquê.
+
+###### Em Resumo
+- **A documentação de teste facilita a tarefa de teste**
+	- Para criar um bom plano de teste, é necessário investigar o programa de forma sistemática à medida que se vai desenvolvendo o plano
+	- O tratamento do programa torna-se mais claro, mais exaustivo, e mais eficiente
+	- A documentação de testes facilita a comunicação sobre as tarefas e o processo de teste
+	- A documentação de teste fornece uma estrutura para organizar, escalonar (planear) e gerir o projeto de teste
+- **Desenvolvimento inicial do material de teste**
+	- Primeiros passos para desenvolver um plano de testes
+		- Testar contra a documentação (especificação, manual, ...)
+		- Criar uma documentação que seja organizada para facilitar testes eficientes, por exemplo uma lista de funções
+		- Fazer uma análise simples de limites
+			- Testar valores limite em todas as situações em que se podem fornecer dados
+- **Onde focar a seguir**
+	- Erros mais prováveis
+	- Erros mais visíveis (para o utilizador)
+	- Áreas do programa mais usadas
+	- Área do programa mais referida como distintiva
+	- Áreas mais difíceis de corrigir
+	- Áreas melhor compreendidas
+	- Testar tão cedo quanto possível
+	- Escrever os casos de teste antes do software ser testado
+		- aplicar-se a qualquer nível: unidade, integração e sistema 
+		- ajuda a obter conhecimento sobre os requisitos
+	- Codificar os casos de teste
+		- Devido à frequente necessidade de repetição do teste cada vez que o software é modificado
+	- O “tester” deve ser desde o mais crítico do sistema até ao mais independente (colegas, outro departamento, outra empresa)
+	- Ser consciencioso relativamente a custos
+	- Definir as saídas esperadas no teste com base nas especificações e não no código.
+
+#### Estratégia de testes
+- Estratégias ou abordagens de desenho de casos de teste
+	- [[Caixa Branca]]
+	- [[Caixa Preta]]
+
+##### Caixa Preta Vs Caixa Branca
+- A estratégia de ***“[[caixa preta]]”*** pode ser usada tanto para componentes de software grandes como pequenos
+- Os testes de ***“[[caixa branca]]”*** são mais apropriados para testar componentes pequenos (pelo facto do detalhe requerido para o desenho do teste ser muito elevado)
+
