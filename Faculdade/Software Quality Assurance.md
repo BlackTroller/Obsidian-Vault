@@ -7,4 +7,7 @@
 ##### SQA Plan
 - O **plano SQA** define **os meios que irão ser usados** para **garantir que o software desenvolvido** no **âmbito de um determinado [[produto]] de software satisfaz os requisitos do utilizador** e que respeita amplamente as restrições do projeto a um nível de qualidade alto.
 - Como?
-	- 
+	- primeiro é necessário definir e perceber claramente o “quality target”.
+	- deve ser considerado: a gestão, o desenvolvimento e os planos de manutenção para o software.
+	- • O **standard IEEE730-98**, define os detalhes do “Software Quality Assurance Plan”-
+
