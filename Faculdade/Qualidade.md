@@ -200,3 +200,13 @@ A qualidade do produto de software pode ser melhorada **através de um [[process
 	- **Normas especificadas** definem um conjunto de critérios para o desenvolvimento que orientam o modo como o software é desenvolvido. Se os critérios não são seguidos a falta de qualidade resultará, muito provavelmente. Normas e critérios relacionados com a cultura empresarial. 
 	- Há um conjunto de ***requisitos implícitos*** que nunca são mencionados (p.ex., facilidade de manutenção). Se o software falha a conformidade com estes requisitos implícitos, a qualidade é “suspeita”.
 
+#### Software Quality management
+
+- ***Define***:
+	- **Processos**
+	- **donos dos processos e os requisitos desses processos**
+	- **medida dos processos** e os seus outputs e canais de feedback
+- Consiste em várias atividades e ***envolve***: a **definição** do produto no que diz respeito às suas **características de qualidade**; **Planear todo o processo** para alcançar o referido produto.
+
+- Alguns dos processos especificados pela *Gestão da Qualidade do Software* encontram-se definidos no *Standard (IEEE12207.0-96)*, nomeadamente:
+- 
