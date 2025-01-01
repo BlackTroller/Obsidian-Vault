@@ -209,4 +209,8 @@ A qualidade do produto de software pode ser melhorada **através de um [[process
 - Consiste em várias atividades e ***envolve***: a **definição** do produto no que diz respeito às suas **características de qualidade**; **Planear todo o processo** para alcançar o referido produto.
 
 - Alguns dos processos especificados pela *Gestão da Qualidade do Software* encontram-se definidos no *Standard (IEEE12207.0-96)*, nomeadamente:
-- 
+- **Quality Assurance process**
+- **Verification process**
+- **Validation process**
+- Review process
+
