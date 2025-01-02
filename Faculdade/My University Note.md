@@ -16,6 +16,7 @@
 	- [[Caixa Branca]]
 	- [[Software Quality Assurance]]
 	- [[SCM]]
+	- [[SDLC]]
 	- [[Perguntas Exame]]
 - [[Sistemas operativos]]
 	- [[Processo (Sistemas operativos)]]
