@@ -57,7 +57,41 @@
 
 ##### Porquê que projetos de software falham?
 - **Planning**
-	- Requisitos de Software **(not clear)**
-	- Cost & schedule **(difficult)**
-	- Projects Functions **(Not Planned)**
-	- 
+	- Requisitos de Software **(não é claro)**
+	- Custo e planeamento **(difícil)**
+	- Funções do projeto **(não planeadas)**
+	- O planeamento é frequentemente visto como "**non-productive**"
+- **Controlo**
+	- Controlo insuficiente
+	-  má definição ou indicadores para medir a produtividade e a [[qualidade]]
+
+##### Definir Uma estratégia de Projeto
+- O primeiro passo é escolher um ciclo de vida do projeto ao escolher um modelo apropriado como no ISO/IEC/IEEE 12207
+	- WaterFall
+	- Iterative
+	- RAD
+	- Incremental
+	- ...
+
+![[SDLC 1.PNG]] 
+
+### SDLC Models
+
+##### Como escolher um modelo?
+-  A implementação consiste na definição ou **seleção de um modelo de vida de ciclo de vida de software** apropriado ao ambito, magnitude e complexidade do projeto e na execução de documentação dos resultados, de acordo com o [[processo]] e documentação
+
+#### SDLC Modelos
+- [[Modelo em Cascata]]
+- [[Modelo em Cascata Revisto]]
+- [[Modelo V]]
+- Modelos Evolutivos
+	- Modelo de Prototipagem
+	- Modelo RAD
+	- Iterativo e Incremental
+	- Espiral
+	- Espiral WinWin
+- Baseado em Componentes
+- Técnicas de 4ª geração
+
+![[SDLC Models.png]]
+
