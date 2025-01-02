@@ -30,16 +30,53 @@
 	- [[método]]s e [[ferramenta]]s de construção
 	- revisões formais
 	- estratégia de teste *
-	- controlo de documentação e histórico de mudanças
+	- **controlo de documentação** e histórico de mudanças
 	- procedimentos para garantir a adequação aos padrões de desenvolvimento
-	- mecanismos de medição e análise *
+	- mecanismos de **medição e análise** *
 
 * No caso dos testes
-	* O erro começa em desvalorizar o processo de testes
+	* O erro começa em desvalorizar o [[processo]] de testes
 	* Existem [[ferramenta]]s de teste que permitem a automação dos testes, no entanto, deve-se usar a mais adequada e ter um [[processo]] de testes claro e definido
 	* Efetuar planeamento dos testes
 	* O custo do [[processo]] e de uma [[ferramenta]] de testes será diluído no tempo e nos “bugs” eliminados previamente.
 * No caso dos **mecanismos de medição**
 	* o problema é a indefinição do que se deve medir
 	* o erro é desenvolver o software de **forma reativa e não de forma pró-ativa**, corrige- se aquilo que é reclamado ou questionado, se ninguém analisou não tem erros...
+
+##### Software Quality - direct and indirect factors
+- Existem dois grandes grupos que afetam a [[qualidade]] de software
+	- o que pode ser **medido de forma direta**
+		- ex: número de erros , linhas de código (para cada situação deve haver um processo de medição)
+	- o que pode ser **medido de forma indireta**
+		- ex: usabilidade, etc
+
+![[SQA.PNG]]
+
+##### SQA - [[Testing]]
+- Estratégia mais popular de **gestão de risco**
+- Usados para verificar o encontro dos requisitos com o [[produto]]
+- Nem todos os defeitos são descobertos durante os testes
+- Testes de software incluem atividades de verificação e validação das atividades do [[processo]] de desenvolvimento
+
+##### SQA - Quality Control
+- [[Processo]]s e [[método]]s usados para monitorar o trabalho e os requisitos envolvidos
+- É focado nas **revisões e remoção de defeitos** antes da entrega do produto
+- Consiste em checks do [[produto]] bem definidos que sejam especificados dentro do plano de garantia de [[qualidade]]
+- Revisões de especificação, inspeções de código e documentos, e checks de entrega ao utilizador
+
+##### SQA - Software Configuration Management
+- Refere-se a **“etiquetar”, rastear e controlar as mudanças** nos elementos do software ou do sistema
+- Controla a **evolução do sistema pela gestão das versões dos componentes de software** e seus relacionamentos
+- O objetivo é **identificar todos os componentes do software interrelacionados e controlar a sua evolução através das fases do ciclo de vida do software**
+- Controla o código e documentos associados de tal maneira que o código final e a sua descrição sejam consistentes e representem aqueles itens que eventualmente foram revistos e testados
+
+- **Gestão de configuração de SW** (engloba fundamentalmente):
+	- component identification;
+	- version control;
+	- config. building;
+	- change control;
+
+![[SQAConfig.PNG]]
+
+***Conjunto de atividades desenvolvidas para gerir a mudança ao longo do ciclo de vida de desenvolvimento de software***
 
