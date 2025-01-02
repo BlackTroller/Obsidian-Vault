@@ -80,3 +80,31 @@
 
 ***Conjunto de atividades desenvolvidas para gerir a mudança ao longo do ciclo de vida de desenvolvimento de software***
 
+- **Necessidade**
+	- Porque trabalho em equipa
+	- Porque há diferentes versões de software; 
+	- Porque há várias *releases* para o cliente; 
+	- Porque o SW muda rápidamente
+- **Logo**
+	- Há a necessidade de gerir o [[processo]] e garantir *“agilidade”* no mesmo!
+- **Tarefas**
+	- Identificar *work products (WP) susceptíveis mudança; 
+	- Estabelecer relações entre eles (os WP);
+	- Estabelecer mecanismos de gestão das diferentes versões desses WP **(Gestão de Versões)**
+	- Estabelecer o processo de assemblagem de todos os componentes **(Building)**
+	- Controlar as alterações **(Gestão de Alterações)**
+	- Auditar e reportar as alterações **(Inspeções)**
+	- Preparar o software para entrega **(Release Management)**
+
+##### Processo SCM
+**Dos Requisitos...**
+
+![[SQASCM.PNG]]
+
+##### SCM vs DevOps
+- Ambos se referem aos mesmos princípios:
+	- **DevOps** é mais recente e menos formal. Emergiu do vocabulários Agile
+	- **SCM** é um conceito bem definido no âmbito da [[engenharia de software]]
+
+![[SCMVSDEVOPS.PNG]]
+
