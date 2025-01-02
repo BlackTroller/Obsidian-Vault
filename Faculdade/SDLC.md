@@ -54,4 +54,4 @@
 - Os envolvidos são:
 	- Acquirer, supplier, planner, developer, operator and maintainer de um sistema de software
 - As atividades e tarefas iniciais são da responsabilidade da organização que inicia o processo.
-- 
+
