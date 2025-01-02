@@ -96,15 +96,58 @@
 	- Auditar e reportar as alterações **(Inspeções)**
 	- Preparar o software para entrega **(Release Management)**
 
-##### Processo SCM
+###### [[Processo]] [[SCM]]
 **Dos Requisitos...**
 
 ![[SQASCM.PNG]]
 
-##### SCM vs DevOps
+###### [[SCM]] vs DevOps
 - Ambos se referem aos mesmos princípios:
 	- **DevOps** é mais recente e menos formal. Emergiu do vocabulários Agile
-	- **SCM** é um conceito bem definido no âmbito da [[engenharia de software]]
+	- **[[SCM]]** é um conceito bem definido no âmbito da [[engenharia de software]]
 
 ![[SCMVSDEVOPS.PNG]]
 
+###### O QUE NA PRÁTICA SIGNIFICA
+- Configuration Item
+- Baseline 
+- Codeline 
+- Versão 
+- Release
+
+###### Configuration Items
+- hardware e software que necessitam controlo
+	- Documento de requisitos
+	- Documentos com o desenho da solução 
+	- Documentos de teste (plano de teste) 
+	- Código fonte 
+	- Executáveis, scripts, … 
+	- Dados/informação de testes 
+	- Bugs 
+	- Build
+	- Servers
+###### Baseline
+- Especificação de um [[produto]] **que foi formalmente revista e acordada** com o responsável da gestão de configurações e que serve de **base para desenvolvimento futuros** e que evolui de acordo com o controlo de versões
+- À medida que o produto é desenvolvido, poderão existir diferentes baselines
+	- Development Baseline
+	- Product Baseline
+	- Functional Baseline
+
+- **Codeline** é um conjunto de versões de um componente de software ou outro item; contém todas as versões de todos os artefactos numa única *path* evolutiva. *Uma Branch é uma codeline*
+- **Codelines** aplicam-se normalmente a componentes de sistemas que têm vários versões de cada componente
+- **Versão** específica de um determinado configuration item
+- **Release** Distribuição formal de uma versão aprovada
+- **[[PROCESSO]]**
+	- **Identificação**
+		- Identificar e designar (dar um nome) a cada item;
+		- Categorizar cada item;
+	- **Controlo de alterações**
+		- Pedido de alterações > Aprovação/Rejeição > Checkout > Executar as alterações > Rever
+	- **Controlo de versões**
+	- **Auditorias às configurações**
+		- Garantir o “alinhamento” com o plano de configurações
+		- Identificar qualquer não-conformidade
+		- Aplicar medidas corretivas
+	- **Reporting**
+		- Status da auditoria
+		- Quem, Quando e o Quê? 

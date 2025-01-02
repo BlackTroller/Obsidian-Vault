@@ -14,6 +14,8 @@
 	- [[Testing]]
 	- [[Caixa Preta]]
 	- [[Caixa Branca]]
+	- [[Software Quality Assurance]]
+	- [[SCM]]
 	- [[Perguntas Exame]]
 - [[Sistemas operativos]]
 	- [[Processo (Sistemas operativos)]]
