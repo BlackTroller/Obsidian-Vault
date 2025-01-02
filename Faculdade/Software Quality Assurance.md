@@ -27,4 +27,19 @@
 
 ##### Categories of SQA Work
 - Um trabalho típico de garantia da **[[qualidade]]** de software abrange **6 dimensões**:
-- 
+	- [[método]]s e [[ferramenta]]s de construção
+	- revisões formais
+	- estratégia de teste *
+	- controlo de documentação e histórico de mudanças
+	- procedimentos para garantir a adequação aos padrões de desenvolvimento
+	- mecanismos de medição e análise *
+
+* No caso dos testes
+	* O erro começa em desvalorizar o processo de testes
+	* Existem [[ferramenta]]s de teste que permitem a automação dos testes, no entanto, deve-se usar a mais adequada e ter um [[processo]] de testes claro e definido
+	* Efetuar planeamento dos testes
+	* O custo do [[processo]] e de uma [[ferramenta]] de testes será diluído no tempo e nos “bugs” eliminados previamente.
+* No caso dos **mecanismos de medição**
+	* o problema é a indefinição do que se deve medir
+	* o erro é desenvolver o software de **forma reativa e não de forma pró-ativa**, corrige- se aquilo que é reclamado ou questionado, se ninguém analisou não tem erros...
+
