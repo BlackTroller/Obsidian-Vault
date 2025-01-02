@@ -16,3 +16,6 @@
 	- Gerir, controlar e melhorar os [[processo]]s
 - **Fornece uma espécie de guia base para o comércio de software**.
 - **Mas**, IEEE/EIA 12270 não especifica o detalhe da implementação desses [[processo]]s
+
+![[12207 structure.PNG]]
+
