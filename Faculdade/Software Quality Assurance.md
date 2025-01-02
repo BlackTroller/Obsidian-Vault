@@ -24,3 +24,7 @@
 	- serviços pós-venda;
 - pode ainda conter:
 	- critérios de aceitação e ainda atividades de report e gestão consideradas críticas para a [[qualidade]] de software
+
+##### Categories of SQA Work
+- Um trabalho típico de garantia da **[[qualidade]]** de software abrange **6 dimensões**:
+- 
