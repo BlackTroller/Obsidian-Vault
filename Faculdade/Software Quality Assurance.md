@@ -11,3 +11,16 @@
 	- deve ser considerado: a gestão, o desenvolvimento e os planos de manutenção para o software.
 	- • O **standard IEEE730-98**, define os detalhes do “Software Quality Assurance Plan”-
 
+- O que contem o **SQA Plan**
+- Identifica:
+	- **documentos, standards, práticas e convenções** que regem o projeto de modo **a controlar e monitorar** para garantir a adequação e conformidade;
+	- **medidas, técnicas (estatísticas) e procedimento para reportar problemas e ações corretivas, recursos ([[ferramenta]]s, técnicas e [[metodologia]]s), formação** e indicações de como criar documentação específica
+
+##### SQA - Other Activities
+- contempla também:
+	- outras atividades para garantia de [[qualidade]] de software que estejam no **SQA Plan**, nomeadamente:
+	- procurement of supplier software (aquisição de software) ou
+	- commercial off-the-shelf software (COTS), e
+	- serviços pós-venda;
+- pode ainda conter:
+	- critérios de aceitação e ainda atividades de report e gestão consideradas críticas para a [[qualidade]] de software
