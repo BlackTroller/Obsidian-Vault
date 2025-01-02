@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/SCM.md",
+                "file": "Faculdade/Qualidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCM"
+              "title": "Qualidade"
             }
           }
         ]
@@ -165,18 +165,22 @@
   },
   "active": "675cfa84c633a573",
   "lastOpenFiles": [
-    "Faculdade/My University Note.md",
-    "Faculdade/SCM.md",
+    "Faculdade/Requisitos de software.md",
     "Faculdade/Qualidade.md",
-    "Faculdade/Software Quality Assurance.md",
+    "Faculdade/Engenharia de Software.md",
     "Faculdade/Processo.md",
+    "Faculdade/Deadlocks.md",
+    "Faculdade/Ambiente.md",
+    "Faculdade/Caixa Branca.md",
+    "Faculdade/SCM.md",
+    "Faculdade/My University Note.md",
+    "Faculdade/Software Quality Assurance.md",
     "Faculdade/Imagens/SCMVSDEVOPS.PNG",
     "Faculdade/Imagens/SQASCM.PNG",
     "Faculdade/Imagens/SQAConfig.PNG",
     "Faculdade/Imagens/SQA.PNG",
     "Faculdade/Sistemas Distribuídos.md",
     "Faculdade/Caixa Preta.md",
-    "Faculdade/Caixa Branca.md",
     "Faculdade/Testes de software.md",
     "Faculdade/Testing.md",
     "Faculdade/Perguntas Exame.md",
@@ -188,8 +192,6 @@
     "Faculdade/Imagens/causaEfeito2.PNG",
     "Faculdade/Imagens/causaEfeito1.PNG",
     "Faculdade/Sistemas operativos.md",
-    "Faculdade/Requisitos de software.md",
-    "Faculdade/Engenharia de Software.md",
     "Faculdade/Sincronização de Processos.md",
     "Faculdade/Modelo.md",
     "Faculdade/Case Study SIO.md",
@@ -199,8 +201,6 @@
     "Faculdade/Sistemas de Informação organizacional.md",
     "Faculdade/Processo (Sistemas operativos).md",
     "Faculdade/SWeBoK.md",
-    "Faculdade/Sistema de ficheiros.md",
-    "Faculdade/Metodologia.md",
     "Obsidian",
     "Excalidraw",
     "Faculdade/Imagens",
