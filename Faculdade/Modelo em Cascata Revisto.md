@@ -11,4 +11,5 @@
 - Evolução do [[modelo em cascata]] e em muito semelhante a esse modelo:
 	- sequencial; avança para a fase seguinte com a primeira está concluído, mas
 - **A fase de teste é planeada em** ***paralelo*** **a fase de desenvolvimento correspondente**
-- 
+
+![[Pasted image 20250103172828.png]]
