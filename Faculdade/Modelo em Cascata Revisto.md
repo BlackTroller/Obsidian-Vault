@@ -13,6 +13,3 @@
 - **A fase de teste é planeada em** ***paralelo*** **a fase de desenvolvimento correspondente**
 
 ![[Waterfall revisto.png]]
-
-- O [[processo]] de desenvolvimento é basicamente dividido em duas partes, as duas pernas do V, a parte da especificação e da verificação e validação
-- No diagrama as caixas retangulares representam as fases e as ovais representam os produtos, que não mais do que o resultado de uma revisão satisfatória da fase anterior, apresentadas sob a forma de documentos, e que 
