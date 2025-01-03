@@ -11,10 +11,14 @@
             "id": "22b8f6c61cacbefa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Modelo RAD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelo RAD"
             }
           }
         ]
@@ -161,17 +165,17 @@
   },
   "active": "22b8f6c61cacbefa",
   "lastOpenFiles": [
+    "Faculdade/Modelo em Cascata.md",
+    "Faculdade/SDLC.md",
     "Faculdade/Modelo de Prototipagem.md",
     "Faculdade/Imagens/prototipagem.png",
     "Faculdade/Modelos de Programação Distribuida.md",
-    "Faculdade/SDLC.md",
     "Faculdade/My University Note.md",
     "Faculdade/Modelos Evolutivos.md",
     "Faculdade/Modelo V.md",
     "Faculdade/Modelo em Cascata Revisto.md",
     "Faculdade/Modelo RAD.md",
     "Faculdade/Imagens/Waterfall revisto.png",
-    "Faculdade/Modelo em Cascata.md",
     "Faculdade/Imagens/Waterfall 1.png",
     "Pasted image 20250103145853.png",
     "Faculdade/Espiral.md",
