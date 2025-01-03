@@ -37,7 +37,7 @@ Para além disso, acrescente mais duas seções: uma no início e outra no fim. 
 - **Título típico da secção**
 	- CM no ciclo de vida do desenvolvimento de software
 - **Conteúdo da secção** 
-	- - Identificar a SLDC
+	- Identificar a SLDC
 	- Identificar quais e como as atividades do SLDC são apoiadas pelo Plano SCM e como estão integradas
 ##### A secção Como
 - Título típico da secção

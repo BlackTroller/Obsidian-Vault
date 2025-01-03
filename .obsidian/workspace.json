@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Software Quality Assurance.md",
+                "file": "Faculdade/SCM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Quality Assurance"
+              "title": "SCM"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,8 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a455d4be6e00ac8",
+  "active": "ee5043e0ab61ff50",
   "lastOpenFiles": [
+    "Faculdade/SCM.md",
+    "Faculdade/Software Quality Assurance.md",
     "Faculdade/Qualidade.md",
     "Faculdade/SDLC.md",
     "Faculdade/My University Note.md",
@@ -200,7 +201,6 @@
     "Faculdade/Modelo em Cascata.md",
     "Faculdade/Imagens/Waterfall model.png",
     "Faculdade/Utilizadores.md",
-    "Faculdade/SCM.md",
     "Faculdade/Processo.md",
     "Faculdade/Ambiente.md",
     "Faculdade/Periféricos.md",
@@ -209,7 +209,6 @@
     "Faculdade/Engenharia de Software.md",
     "Faculdade/Deadlocks.md",
     "Faculdade/Caixa Branca.md",
-    "Faculdade/Software Quality Assurance.md",
     "Faculdade/Sistemas Distribuídos.md",
     "Faculdade/Caixa Preta.md",
     "Faculdade/Testes de software.md",
