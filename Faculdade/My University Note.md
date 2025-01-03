@@ -21,6 +21,7 @@
 		- [[Modelo em Cascata Revisto]]
 		- [[Modelo V]]
 		- [[Modelo RAD]]
+		- [[Iterativo e Incremental]]
 		- [[Espiral]]
 	- [[Perguntas Exame]]
 - [[Sistemas operativos]]

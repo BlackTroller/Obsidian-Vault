@@ -87,7 +87,7 @@
 - Modelos Evolutivos
 	- Modelo de Prototipagem
 	- [[Modelo RAD]]
-	- Iterativo e Incremental
+	- [[Iterativo e Incremental]]
 	- [[Espiral]]
 	- Espiral WinWin
 - Baseado em Componentes

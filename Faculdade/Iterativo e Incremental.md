@@ -1,0 +1,3 @@
+
+![[Iterativo e Incremental.png]]
+
