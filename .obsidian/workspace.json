@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Modelo em Cascata.md",
+                "file": "Faculdade/Modelo em Cascata Revisto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo em Cascata"
+              "title": "Modelo em Cascata Revisto"
             }
           }
         ]
@@ -163,8 +163,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ccd86d90475756e",
+  "active": "f2cce5536ce9f31e",
   "lastOpenFiles": [
+    "Faculdade/Modelo em Cascata.md",
     "Faculdade/Imagens/Waterfall 1.png",
     "Pasted image 20250103145853.png",
     "Faculdade/Espiral.md",
@@ -185,11 +186,9 @@
     "Faculdade/Qualidade.md",
     "Faculdade/Imagens/RAD.png",
     "Faculdade/Imagens/evo to proto 2.png",
-    "Faculdade/Imagens/evo to proto.png",
     "README.md",
     "Faculdade/Modelo V.md",
     "Faculdade/Modelo em Cascata Revisto.md",
-    "Faculdade/Modelo em Cascata.md",
     "Faculdade/Utilizadores.md",
     "Faculdade/Processo.md",
     "Faculdade/Ambiente.md",
