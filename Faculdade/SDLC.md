@@ -86,7 +86,7 @@
 - [[Modelo V]]
 - Modelos Evolutivos
 	- Modelo de Prototipagem
-	- Modelo RAD
+	- [[Modelo RAD]]
 	- Iterativo e Incremental
 	- Espiral
 	- Espiral WinWin
@@ -96,3 +96,13 @@
 ![[SDLC Models.png]]
 
 ##### Evolution to prototyping
+
+- **Motivação**: melhor *compreender o detalhe dos requisitos* e validar abordagens para implementação dos mesmos
+
+![[evo to proto.png]]
+
+- Se é altamente provável haver incertezas num projeto e o cliente, tipicamente, não sabe o que quer, então
+	- a **Especificação dos requisitos** será uma dura tarefa e o desenho da solução poderá não corresponder ao pretendido pelo cliente
+
+![[evo to proto 2.png]]
+
