@@ -25,3 +25,8 @@ E se para além **da necessidade de lidar com a incerteza** associada a um proje
 ###### Modelo de processo
 - **Descrição do processo** <=> adicionar; modificar; remover; ou recuperar a informação de um objeto
 
+##### Rad Implica:
+- Reusar componentes - quando possível
+- Criar componentes reutilizáveis - quando necessário
+- os pontos anteriores implica o uso de técnicas denominadas da 4ª geração([[ferramenta]]s automáticas)
+
