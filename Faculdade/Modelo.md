@@ -1,4 +1,4 @@
-Em engenharia de software, um "[[modelo]]" refere-se a uma representação abstrata ou simplificada de um sistema, [[processo]] ou conceito relacionado ao desenvolvimento de software. Existem vários [[modelo]]s em engenharia de software que ajudam a organizar, entender e visualizar diferentes aspectos do ciclo de vida do software.
+Em engenharia de software, um "[[modelo]]" refere-se a uma representação abstrata ou simplificada de um sistema, [[processo]] ou conceito relacionado ao desenvolvimento de software. Existem vários [[modelo]]s em engenharia de software que ajudam a organizar, entender e visualizar diferentes aspetos do ciclo de vida do software.
 
 Modelos clássicos
 - **Waterfall:** O ***modelo em cascata*** é um modelo de desenvolvimento de software linear e sequencial, onde as fases, como definição de requisitos, design, implementação, testes e manutenção, são executadas em uma ordem fixa. Cada fase depende da conclusão da fase anterior, e mudanças frequentes são difíceis de incorporar. Esse modelo é simples, mas pode ser inflexível em projetos que enfrentam mudanças frequentes nos requisitos.
