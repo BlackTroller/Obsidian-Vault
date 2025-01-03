@@ -20,6 +20,7 @@
 		- [[Modelo em Cascata]]
 		- [[Modelo em Cascata Revisto]]
 		- [[Modelo V]]
+		- [[Modelo de Prototipagem]]
 		- [[Modelo RAD]]
 		- [[Iterativo e Incremental]]
 		- [[Espiral]]
