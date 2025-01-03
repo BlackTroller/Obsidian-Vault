@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Modelo RAD.md",
+                "file": "Faculdade/Software Quality Assurance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo RAD"
+              "title": "Software Quality Assurance"
             }
           }
         ],
@@ -178,16 +178,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ccd86d90475756e",
+  "active": "5a455d4be6e00ac8",
   "lastOpenFiles": [
-    "Faculdade/Imagens/RAD.png",
+    "Faculdade/Qualidade.md",
     "Faculdade/SDLC.md",
+    "Faculdade/My University Note.md",
     "Faculdade/Modelo RAD.md",
+    "Faculdade/Imagens/RAD.png",
     "Faculdade/Imagens/evo to proto 2.png",
     "Faculdade/Imagens/evo to proto.png",
     "Faculdade/Modelo.md",
     "README.md",
-    "Faculdade/My University Note.md",
     "Faculdade/Modelo V.md",
     "Faculdade/Imagens/V Model 3.png",
     "Faculdade/Imagens/V Model 2.png",
@@ -198,10 +199,8 @@
     "Pasted image 20250102202728.png",
     "Faculdade/Modelo em Cascata.md",
     "Faculdade/Imagens/Waterfall model.png",
-    "Faculdade/Imagens/SDLC Models.png",
     "Faculdade/Utilizadores.md",
     "Faculdade/SCM.md",
-    "Faculdade/Qualidade.md",
     "Faculdade/Processo.md",
     "Faculdade/Ambiente.md",
     "Faculdade/Periféricos.md",
