@@ -10,3 +10,10 @@ Nestas e noutras situações em que existem incertezas, **a prototipagem constit
 - **o utilizador é envolvido no [[processo]]** o que aumenta a probabilidade de o utilizador aceitar a implementação final
 - ***"Small-scale mockups"*** do sistema **são desenvolvidos de acordo com um processo de modificação/ajusto iterativo até que o protótipo evolua de forma a atender as necessidades do utilizador**
 - ***A maior parte dos protótipos é desenvolvido na expectativa de que sejam posteriormente "eliminados"***, **contudo é possível, em alguns casos, evoluir para protótipos completamente funcionais.
+
+![[prototipagem.png]]
+
+- Requer **processo de controlo e aprovação - que não é rigoroso**
+- **Pode ocorrer uma análise incompleta e inadequada do problema** e apenas serem consideradas as necessidades mais básicas e superficiais
+- **Os requisitos podem mudar significativamente e frequentemente**
+- **A identificação de elementos não funcionais é difícil de documentar**
