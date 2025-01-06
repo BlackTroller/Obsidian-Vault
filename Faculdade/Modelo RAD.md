@@ -29,4 +29,10 @@ E se para além **da necessidade de lidar com a incerteza** associada a um proje
 - Reusar componentes - quando possível
 - Criar componentes reutilizáveis - quando necessário
 - os pontos anteriores implica o uso de técnicas denominadas da 4ª geração([[ferramenta]]s automáticas)
+- tempo significa €€€€€€€€€€€€€€, ou seja com isto queremos dizer que para fazer no menor possível precisamos é precisar gastar bastante dinheiro
 
+###### RAD adequa-se a todo o tipo de projetos/aplicações?
+***Não!!***
+- Se **não for possível modularizar** o sistema, então não
+- Se **a performance** é uma questão muito pertinente, então cuidado
+- quando **os riscos técnicos são elevados**, então não
