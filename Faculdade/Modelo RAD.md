@@ -36,3 +36,15 @@ E se para além **da necessidade de lidar com a incerteza** associada a um proje
 - Se **não for possível modularizar** o sistema, então não
 - Se **a performance** é uma questão muito pertinente, então cuidado
 - quando **os riscos técnicos são elevados**, então não
+
+- A noção de [[processo]] corresponde à **ideia de "melhorar (ou refinar) pouco-a-pouco" o sistema**
+- o âmbito do sistema não é alterado, mas o seu **detalhe vai aumentando em iterações sucessivas**
+- Num processo iterativo:
+	- *os riscos e dúvidas com maior importância são identificados no início do [[processo]]* (nas primeiras iterações) quando é possível tomar medidas para os corrigir
+	- esta abordagem **encoraja a participação ativa dos utilizadores** de modo a identificar os verdadeiros requisitos do sistema
+	- **A execução de testes contínuos e iterativos permite uma avaliação objetiva do estado do projeto**
+	- **As inconsistências entre análise, o desenho e a implementação são identificadas atempadamente**
+	- o esforço dos diversos elementos da equipa é distribuído ao longo do tempo
+	- A equipa pode aprender com experiências anteriores e melhorar continuamento o processo
+	- Pode ser demonstrado a todos os indivíduos e interessados no projeto o respetivo avanço
+
