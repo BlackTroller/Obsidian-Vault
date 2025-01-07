@@ -13,3 +13,15 @@
 	- **Teste** e disponibilização do software
 	- **Submissão do software à avaliação pelo cliente**
 
+![[modelo espiral.png]]
+
+###### Aumenta a capacidade de evitar riscos
+- Pode incorporar os [[modelo em Cascata]], [[modelo de prototipagem]] e as [[Metodologia]]s incrementais e fornecendo simultaneamente "pistas" para a seleção da melhor [[metodologia]] de acordo com o risco do projeto 
+	- Exemplo:
+	- ![[exemplo_espiral.png]]
+###### A dimensão do raio, em cada instante, mede os custos incorridos até ao momento:
+- Em cada ciclo são removidos os riscos considerados suficientes para pode prosseguir para o ciclo seguinte
+- O [[processo]] é orientado para os riscos, em vez de ser orientado para o [[produto]]
+- Abordagem realista para projetos de desenvolvimento de larga escala
+- **Não é simples de aplicar a projetos subcontratados** que não possuem a flexibilidade e a liberdade que o modelo assume
+- **
