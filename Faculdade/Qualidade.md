@@ -214,3 +214,12 @@ A qualidade do produto de software pode ser melhorada **através de um [[process
 - **Validation process**
 - Review process
 
+#### Segurança e Qualidade de software
+- **Segurança** é um dos fatores de qualidade do [[produto]] de software
+
+##### O que significa segurança na qualidade do produto?
+- Confidentiality - degree to which the prototype ensures that data are accessible only to those authorised to have access 
+- Integrity - degree to which a system, product or component prevents unauthorised access to, or modification of, computer programs or data. 
+- Non-repudiation - degree to which actions or events can be proven to have taken place, so that the events or actions cannot be repudiated later. 
+- Accountability - degree to which the actions of an entity can be traced uniquely to the entity.
+- Authenticity - degree to which the identity of a subject or resource can be proved to be the one claimed.
