@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Iterativo e Incremental.md",
+                "file": "Faculdade/Espiral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iterativo e Incremental"
+              "title": "Espiral"
             }
           }
         ]
@@ -163,17 +163,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ccd86d90475756e",
+  "active": "a07d0465f04b3d98",
   "lastOpenFiles": [
-    "Faculdade/Imagens/entrega incremental.png",
     "Faculdade/My University Note.md",
+    "Faculdade/Iterativo e Incremental.md",
+    "Faculdade/Imagens/entrega incremental.png",
     "Faculdade/Modelo V.md",
     "Faculdade/Case Study SIO.md",
     "Faculdade/Caixa Preta.md",
     "Faculdade/Caixa Branca.md",
     "Faculdade/Ambiente.md",
     "Faculdade/Modelo de Prototipagem.md",
-    "Faculdade/Iterativo e Incremental.md",
     "Faculdade/Sistemas Distribuídos.md",
     "Faculdade/Modelos de Programação Distribuida.md",
     "Faculdade/Perguntas Exame.md",
@@ -200,7 +200,6 @@
     "Faculdade/Imagens/Pasted image 20241230145539.png",
     "Faculdade/Imagens/Pasted image 20241014111734.png",
     "Faculdade/Imagens/Pasted image 20241014105209.png",
-    "Faculdade/Imagens/Pasted image 20241014103236.png",
     "Obsidian",
     "Excalidraw",
     "Faculdade/Imagens",
