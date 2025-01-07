@@ -228,5 +228,20 @@ A qualidade do produto de software pode ser melhorada **através de um [[process
 - **ISO/IEC 27001** - *Gestão da segurança da informação
 - **ISO/IEC 25010** - **Engenharia** de sistemas e **de software** - Requisitos e avaliação da qualidade de sistemas e software (SQuaRE) - **Modelos de qualidade de sistemas e software.**
 
+###### ISO/IEC 27001
+- Foca a **gestão** da segurança da informação 
+- Procura *estabelecer, implementar, operar, monitorizar e rever* um **sistema de gestão de segurança de informação**. Neste caso, sistema não implica a existência de um software. São apenas processos e práticas
+- Norma mais genérica e abrangente 
+- Leva as questões de segurança ao nível do planeamento estratégico de sistemas de informação
+- Procura apresentar uma visão 360º da segurança incluindo aspetos relacionados com: **telecomunicações; proteção do meio físico; RH; licenciamento, etc…**
+
 ![[ISO 27001.png]]
 
+###### ISO/IEC 25010
+- Foca aspetos práticos do desenvolvimento de software 
+- Procura garantir segurança do código e do acesso à informação 
+- Mais específica e concreta, relacionada com processos de práticas de construção de software 
+- Está ao nível mais operacional
+- ****27001 e 25010, estão relacionados na medida em que o software é a componente tecnológica que recolhe, processa e entrega informação com qualidade e em segurança***
+	- **A forma como estes processos ocorrem definem a segurança de informação**
+	- **A capacidade de suportar adequadamente estes processos definem a segurança do software**
