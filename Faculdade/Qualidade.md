@@ -218,8 +218,15 @@ A qualidade do produto de software pode ser melhorada **através de um [[process
 - **Segurança** é um dos fatores de qualidade do [[produto]] de software
 
 ##### O que significa segurança na qualidade do produto?
-- Confidentiality - degree to which the prototype ensures that data are accessible only to those authorised to have access 
-- Integrity - degree to which a system, product or component prevents unauthorised access to, or modification of, computer programs or data. 
-- Non-repudiation - degree to which actions or events can be proven to have taken place, so that the events or actions cannot be repudiated later. 
-- Accountability - degree to which the actions of an entity can be traced uniquely to the entity.
-- Authenticity - degree to which the identity of a subject or resource can be proved to be the one claimed.
+- Confidencialidade - grau em que o protótipo garante que os dados são acessíveis apenas às pessoas autorizadas a ter acesso 
+- Integridade - grau em que um sistema, produto ou componente impede o acesso não autorizado a, ou a modificação de, programas ou dados informáticos. 
+- Não repúdio - grau em que se pode provar que as acções ou eventos tiveram lugar, de modo a que os eventos ou acções não possam ser repudiados mais tarde. 
+- Responsabilidade - grau em que as acções de uma entidade podem ser atribuídas exclusivamente a essa entidade.
+- Autenticidade - grau em que se pode provar que a identidade de um sujeito ou recurso é a que foi reivindicada.
+
+###### ISO/IEC 27001 vs ISO/IEC 25010
+- **ISO/IEC 27001** - *Gestão da segurança da informação
+- **ISO/IEC 25010** - **Engenharia** de sistemas e **de software** - Requisitos e avaliação da qualidade de sistemas e software (SQuaRE) - **Modelos de qualidade de sistemas e software.**
+
+![[ISO 27001.png]]
+
