@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Espiral WinWin.md",
+                "file": "Faculdade/Sistemas Distribuídos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Espiral WinWin"
+              "title": "Sistemas Distribuídos"
             }
           }
         ]
@@ -165,10 +165,13 @@
   },
   "active": "a07d0465f04b3d98",
   "lastOpenFiles": [
-    "Faculdade/Espiral.md",
     "Faculdade/My University Note.md",
-    "Faculdade/Espiral WinWin.md",
     "Faculdade/SDLC.md",
+    "Faculdade/Imagens/SDLC 7.png",
+    "Faculdade/Imagens/matriz de seleção.png",
+    "Faculdade/Imagens/selecionar SDLC.png",
+    "Faculdade/Espiral WinWin.md",
+    "Faculdade/Espiral.md",
     "Faculdade/Imagens/exemplo_espiral.png",
     "Faculdade/Imagens/modelo espiral.png",
     "Faculdade/Iterativo e Incremental.md",
@@ -193,14 +196,10 @@
     "Faculdade/Requisitos de software.md",
     "Faculdade/SCM.md",
     "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
-    "Faculdade/Software Quality Assurance.md",
     "Faculdade/Imagens/prototipagem.png",
     "Faculdade/Imagens/Waterfall revisto.png",
     "Faculdade/Imagens/Waterfall 1.png",
     "Pasted image 20250103145853.png",
-    "Faculdade/Imagens/Espiral.png",
-    "Faculdade/Imagens/Iterativo e Incremental.png",
-    "Faculdade/Imagens/Pasted image 20241230145539.png",
     "Obsidian",
     "Excalidraw",
     "Faculdade/Imagens",

@@ -106,3 +106,12 @@
 
 ![[evo to proto 2.png]]
 
+#### Como Selecionar um modelo?
+
+![[selecionar SDLC.png]]
+
+##### Matriz de seleção
+
+![[matriz de seleção.png]]
+
+![[SDLC 7.png]]
