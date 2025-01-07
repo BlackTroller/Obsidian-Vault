@@ -24,4 +24,9 @@
 - O [[processo]] é orientado para os riscos, em vez de ser orientado para o [[produto]]
 - Abordagem realista para projetos de desenvolvimento de larga escala
 - **Não é simples de aplicar a projetos subcontratados** que não possuem a flexibilidade e a liberdade que o modelo assume
-- **
+- **A confiança nos [[método]]s de avaliação dos riscos pressupõe que os responsáveis "possuem sempre a capacidade de identificar e gerir riscos" o que pode constituir um problema**
+- **O modelo é de aplicação complexa**. Serão necessários alguns anos de prática até se poder aplicar o modelo com eficácia.
+- Não é possível estipular a composição exata das [[metodologia]]s a aplicar em cada iteração do desenvolvimento
+- **Não existem deadline rígidas**
+- **Grande probabilidade de este modelo cair simplesmente no modelo em cascata** (Alias este modelo é um [[modelo em cascata]] ([[iterativo e incremental]]) com um nível de abstração diferente)
+

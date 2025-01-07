@@ -1,0 +1,2 @@
+- O [[processo]] de levantamento de requisitos é um processo de negociação
+- Um processo de negociação pretende alcançar um equilíbrio em que ambas partes 
