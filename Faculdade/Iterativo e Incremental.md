@@ -16,3 +16,16 @@
 - Possibilidade de **avaliar mais cedo os riscos** e pontos críticos ou mais significativos do projeto, e identificar medidas para os eliminar ou pelo menos controlar.
 - **definição de uma arquitetura que melhor possa orientar todo o desenvolvimento**
 - disponibilização natural de um conjunto de regras para melhor controlar os inevitáveis pedidos de alterações futuras.
+- **permite** que os vários intervenientes possam trabalhar mais efetivamente pela **interação e partilha** de comunicação daí resultante
+- Este método reduz o risco de falha global de todo o projeto *(desenvolvimento do sistema)*
+
+![[entrega incremental.png]]
+
+###### Este modelo de processo é útil quando:
+- Só se consegue visualizar, no inicio, uma parte da funcionalidade
+- Não se consegue entregar toda a funcionalidade no mesmo dia
+- O negócio não consegue suportar toda a mudança, de uma só vez
+###### Este modelo de processo é menos útil quando:
+- Projetos pequenos e de curta duração 
+- Os riscos de integração e da arquitetura são baixos
+- **Aplicações extremamente interativas** e a informação para o projetos já existe, e quando o projeto compreende uma forte componente de análise e reporting.
