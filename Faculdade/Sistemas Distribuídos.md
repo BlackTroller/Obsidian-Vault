@@ -6,6 +6,19 @@
 
 Um sistemas distribuído é o resultado da interação de vários componentes que atravessam toda a stack de computação desde o Hardware até ao Software.
 
+###### Características de um sistema Distribuído
+- Comunicação através de mensagens
+- Concorrência
+- Partilha de recursos
+- Sistema Assíncrono
+- Falhas Independentes
+- Heterogeneidade
+	- Um Sistema Distribuído pode possuir:
+		- Diferentes tipos de rede
+		- Diferentes tipos de hardware
+		- Diferentes [[Sistemas Operativos]]
+		- Diferentes linguagens de programação
+
 ###### Hardware
 - Computador mais infraestrutura de rede; 
 - O hardware é gerido pelo Sistema Operativo (SO) que fornece os serviços para: 
