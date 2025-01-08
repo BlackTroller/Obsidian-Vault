@@ -1,4 +1,4 @@
-Ao nível do SO, a comunicação entre processos é implementada usando protocolos: 
+Ao nível do [[Sistemas Operativos]], a comunicação entre processos é implementada usando protocolos: 
 - ***TCP/IP*** (Transmission Control Protocol / Internet Protocol); 
 - ***UDP*** (User DatagramProtocol); 
 - Outros. 

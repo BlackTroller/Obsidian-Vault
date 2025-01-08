@@ -19,12 +19,23 @@ Um sistemas distribuído é o resultado da interação de vários componentes qu
 		- Diferentes [[Sistemas Operativos]]
 		- Diferentes linguagens de programação
 
-###### Desafios na implementação de sistemas distribuidos
+###### Desafios na implementação de sistemas distribuídos
 - Escalabilidade
-- Abertura
+- Abertura (sistema aberto)
 - Tolerância e Falhas
+	- deteção da falha
+	- localização da falha
+	- mascarar/tolerar a falha
 - Segurança
 - Transparência
+	- acesso
+	- localização
+	- concorrência
+	- replicação
+	- falhas
+	- migração
+	- desempenho
+	- escalabilidade
 
 ###### Hardware
 - Computador mais infraestrutura de rede; 

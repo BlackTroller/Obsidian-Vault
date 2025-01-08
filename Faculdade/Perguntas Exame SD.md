@@ -79,7 +79,7 @@
 - [x] Falso
 #### Grupo 2
 1. **Distinga, por palavras suas, Sistema Distribuído de Computação Distribuída:**
-Sistema distribuído é um conjunto de computadores ligados em rede com software que permita a partilha de recursos enquanto que computação distribuída é distribuída em várias unidades que executam concorrentemente em diferentes elementos de computação.
+Sistema distribuído é um conjunto de computadores ligados em rede com software que permita a partilha de recursos e a coordenação de atividades enquanto que computação distribuída é distribuída em várias unidades que executam concorrentemente em diferentes elementos de computação. Pode ser diferentes processadores em diferentes máquinas, diferentes processadores na mesma máquina ou diferentes cores no mesmo processador.
 
 2. **Explique por palavras suas, porque é que a mudança de contexto entre “Threads” de um mesmo processo é menos “pesada” que a mudança de contexto entre “Threads” de processos distintos.**
 porque threads do mesmo processo já tem facilidade de partilhar recursos/dados entre si enquanto que threads de processos diferentes pode demorar mais tempo a conseguir obter os recursos porque tem outras threads, processos ou ambientes de execução diferentes antes e que possam atrasar a obtenção dos mesmos.
