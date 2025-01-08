@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Sistemas Distribuídos.md",
+                "file": "Faculdade/My University Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sistemas Distribuídos"
+              "title": "My University Note"
             }
           },
           {
@@ -181,8 +181,10 @@
   "active": "75fb20753a4b3d6d",
   "lastOpenFiles": [
     "Faculdade/My University Note.md",
-    "Faculdade/Perguntas Exame SD.md",
+    "Faculdade/Tipo de Sincronização.md",
+    "Faculdade/Modelos de Programação Distribuida.md",
     "Faculdade/Sistemas Distribuídos.md",
+    "Faculdade/Perguntas Exame SD.md",
     "Faculdade/Perguntas Exame.md",
     "Faculdade/Processo.md",
     "Faculdade/Qualidade.md",
@@ -206,13 +208,11 @@
     "Faculdade/Caixa Branca.md",
     "Faculdade/Ambiente.md",
     "Faculdade/Modelo de Prototipagem.md",
-    "Faculdade/Modelos de Programação Distribuida.md",
     "Faculdade/Periféricos.md",
     "Faculdade/Modelo RAD.md",
     "Faculdade/Modelo em Cascata Revisto.md",
     "Faculdade/Modelo em Cascata.md",
     "Faculdade/SWeBoK.md",
-    "Faculdade/Testing.md",
     "Faculdade/Imagens/prototipagem.png",
     "Faculdade/Imagens/Waterfall revisto.png",
     "Faculdade/Imagens/Waterfall 1.png",

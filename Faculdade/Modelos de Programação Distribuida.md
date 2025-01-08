@@ -43,3 +43,10 @@ As várias formas de comunicação por mensagens distinguem-se por:
 	- ***Comunicação bidirecional ou unidirecional***
 
 
+##### Modelo de Avarias
+- Uma avaria é qualquer alteração do comportamento do sistema em relação ao esperado
+###### Tipos de Avarias
+- Avarias por omissão;
+	- 
+- Avarias arbitrárias; 
+- Avarias em tempo.
