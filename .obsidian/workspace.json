@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Sistemas Distribuídos.md",
+                "file": "Perguntas Exame SD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sistemas Distribuídos"
+              "title": "Perguntas Exame SD"
             }
           }
         ]
@@ -165,9 +165,10 @@
   },
   "active": "a07d0465f04b3d98",
   "lastOpenFiles": [
-    "Faculdade/Processo.md",
-    "Faculdade/Sistemas Distribuídos.md",
     "Faculdade/My University Note.md",
+    "Perguntas Exame SD.md",
+    "Faculdade/Sistemas Distribuídos.md",
+    "Faculdade/Processo.md",
     "Faculdade/Qualidade.md",
     "Faculdade/Métricas.md",
     "Faculdade/Imagens/ISO 27001.png",
@@ -197,7 +198,6 @@
     "Faculdade/Modelo em Cascata.md",
     "Faculdade/SWeBoK.md",
     "Faculdade/Testing.md",
-    "Faculdade/Sincronização de Processos.md",
     "Faculdade/Imagens/prototipagem.png",
     "Faculdade/Imagens/Waterfall revisto.png",
     "Faculdade/Imagens/Waterfall 1.png",
