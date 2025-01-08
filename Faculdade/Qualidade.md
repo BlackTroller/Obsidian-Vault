@@ -245,3 +245,16 @@ A qualidade do produto de software pode ser melhorada **através de um [[process
 - ****27001 e 25010, estão relacionados na medida em que o software é a componente tecnológica que recolhe, processa e entrega informação com qualidade e em segurança***
 	- **A forma como estes processos ocorrem definem a segurança de informação**
 	- **A capacidade de suportar adequadamente estes processos definem a segurança do software**
+
+##### [[Métricas]]
+- A maior parte das **[[ferramenta]]s de deteção de vulnerabilidade** no código, baseiam-se em: 
+	- **Common Weakness Enumeration (CWE)** que apresenta “a common developed list of software and hardware weakness types” cwe.mitre.org 
+	- **OWASP Top 10 (wasp.org)** que desenvolve [[ferramenta]]s, recursos e formação para programadores e outros profissionais da área de tecnologia, no sentido de melhorar a segurança no desenvolvimento web. É um projeto **aberto**
+
+###### Métricas mais abrangentes
+- Common Vulnerabilities and exposures (CVE) 
+	- Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
+- Um sistema de avaliação de severidade de vulnerabilidades foi definido
+	- Common Vulnerability Scoring System (Calculator) 
+	- https://chandanbn.github.io/cvss/ - Apresenta uma visão gráfica sobre a calculadora 
+	- Dos vetores de ataques apresentados, o vetor físico é o que mais relacionado está com vulnerabilidade ao nível do software.
