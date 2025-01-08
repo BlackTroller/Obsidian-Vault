@@ -19,6 +19,13 @@ Um sistemas distribuído é o resultado da interação de vários componentes qu
 		- Diferentes [[Sistemas Operativos]]
 		- Diferentes linguagens de programação
 
+###### Desafios na implementação de sistemas distribuidos
+- Escalabilidade
+- Abertura
+- Tolerância e Falhas
+- Segurança
+- Transparência
+
 ###### Hardware
 - Computador mais infraestrutura de rede; 
 - O hardware é gerido pelo Sistema Operativo (SO) que fornece os serviços para: 
