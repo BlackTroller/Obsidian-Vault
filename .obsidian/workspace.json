@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/My University Note.md",
+                "file": "Faculdade/Perguntas Exame SD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My University Note"
+              "title": "Perguntas Exame SD"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Modelos de Programação Distribuida.md",
+                "file": "Faculdade/Sistemas Distribuídos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelos de Programação Distribuida"
+              "title": "Sistemas Distribuídos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,13 +177,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75fb20753a4b3d6d",
+  "active": "a07d0465f04b3d98",
   "lastOpenFiles": [
+    "Faculdade/Sistemas Distribuídos.md",
+    "Faculdade/Modelos de Programação Distribuida.md",
+    "Faculdade/Perguntas Exame SD.md",
     "Faculdade/My University Note.md",
     "Faculdade/Tipo de Sincronização.md",
-    "Faculdade/Modelos de Programação Distribuida.md",
-    "Faculdade/Sistemas Distribuídos.md",
-    "Faculdade/Perguntas Exame SD.md",
     "Faculdade/Perguntas Exame.md",
     "Faculdade/Processo.md",
     "Faculdade/Qualidade.md",
