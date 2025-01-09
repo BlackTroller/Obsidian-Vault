@@ -44,3 +44,8 @@ Um sistemas distribuído é o resultado da interação de vários componentes qu
 	- escalonamento e gestão de [[processo]]s 
 	- gestão de recursos, como o “file system” e periféricos
 
+Requisitos para a confiabilidade:
+- Disponibilidade (availability)
+- Confiabilidade (reliability)
+- Segurança (safety)
+- Capacidade de manutenção (maintainability)
