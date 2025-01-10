@@ -78,6 +78,7 @@
 - [ ] Verdadeiro
 - [x] Falso
 #### Grupo 2
+
 1. **Distinga, por palavras suas, Sistema Distribuído de Computação Distribuída:**
 Sistema distribuído é um conjunto de computadores ligados em rede com software que permita a partilha de recursos e a coordenação de atividades enquanto que computação distribuída é distribuída em várias unidades que executam concorrentemente em diferentes elementos de computação. Pode ser diferentes processadores em diferentes máquinas, diferentes processadores na mesma máquina ou diferentes cores no mesmo processador.
 
@@ -86,3 +87,15 @@ porque threads do mesmo processo já tem facilidade de partilhar recursos/dados 
 
 3. **Porque é que, em streaming de vídeo ou áudio, se usa muitas vezes UDP em detrimento de TCP? Explique a principal diferença que contribui para esta escolha.**
 O Protocolo UDP é preferido em streaming de video e áudio porque prioriza a baixa latência e a transmissão mesmo que ocasionalmente ocorram a perca de pacotes. Diferente, do protocolo TCP que que garante a entrega de pacotes através de retransmissões o UDP permite o streaming continuo, ignorando a perca de pacotes para não haver atrasos na transmissão.
+
+4. **Comente, por palavras suas, a seguinte frase: “Muitos developers de Sistemas Distribuídos Modernos usam muitas vezes o adjetivo “escalável” sem tornarem claro o porquê dos seus Sistemas serem assim considerados”, indicando os principais componentes a considerar num Sistema Distribuído verdadeiramente Escalável.**
+
+
+5. **Qual a importância da Virtualização no desenvolvimento dos Sistemas Distribuídos Modernos?**
+ 
+ 
+6. **Comente, por palavras suas, a seguinte frase: “A replicação de componentes num sistema distribuído introduz um problema de consistência”, indicando duas formas de resolução e as principais diferenças entre si.**
+
+
+7. **Comente, por palavras suas, a seguinte frase: “Num Sistema Distribuído, a segurança decorre da combinação da disponibilidade, da integridade e da confidencialidade”.**
+
