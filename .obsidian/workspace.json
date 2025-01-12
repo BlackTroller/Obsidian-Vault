@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c0a783ccc683d5e",
+        "id": "3b1ff7402b6c80ca",
         "type": "tabs",
         "children": [
           {
-            "id": "75fb20753a4b3d6d",
+            "id": "173723dc8a4fb2c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade/Perguntas Exame SD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Perguntas Exame SD"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Modelo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Modelo"
+              "title": "Backlinks"
             }
           },
           {
@@ -149,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,23 +157,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75fb20753a4b3d6d",
+  "active": "940cd997c1bcb084",
   "lastOpenFiles": [
-    "Faculdade/Sistemas Distribuídos.md",
+    "Faculdade/Modelo RAD.md",
+    "Faculdade/SDLC.md",
+    "Faculdade/Modelo V.md",
+    "Faculdade/Produto.md",
+    "Faculdade/Qualidade.md",
+    "Faculdade/My University Note.md",
+    "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
     "Faculdade/Perguntas Exame SD.md",
+    "Faculdade/Sistemas Distribuídos.md",
     "Faculdade/Sistemas operativos.md",
     "Faculdade/Modelos de Programação Distribuida.md",
-    "Faculdade/My University Note.md",
     "Faculdade/Tipo de Sincronização.md",
     "Faculdade/Perguntas Exame.md",
     "Faculdade/Processo.md",
-    "Faculdade/Qualidade.md",
     "Faculdade/Métricas.md",
     "Faculdade/Imagens/ISO 27001.png",
-    "Faculdade/Produto.md",
     "Faculdade/Processo (Sistemas operativos).md",
     "Faculdade/Espiral WinWin.md",
-    "Faculdade/SDLC.md",
     "Faculdade/Imagens/SDLC 7.png",
     "Faculdade/Imagens/matriz de seleção.png",
     "Faculdade/Imagens/selecionar SDLC.png",
@@ -188,16 +185,13 @@
     "Faculdade/Imagens/modelo espiral.png",
     "Faculdade/Iterativo e Incremental.md",
     "Faculdade/Imagens/entrega incremental.png",
-    "Faculdade/Modelo V.md",
     "Faculdade/Case Study SIO.md",
     "Faculdade/Caixa Preta.md",
     "Faculdade/Caixa Branca.md",
     "Faculdade/Ambiente.md",
     "Faculdade/Modelo de Prototipagem.md",
     "Faculdade/Periféricos.md",
-    "Faculdade/Modelo RAD.md",
     "Faculdade/Modelo em Cascata Revisto.md",
-    "Faculdade/Modelo em Cascata.md",
     "Faculdade/Imagens/prototipagem.png",
     "Faculdade/Imagens/Waterfall revisto.png",
     "Faculdade/Imagens/Waterfall 1.png",
