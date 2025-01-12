@@ -28,3 +28,43 @@
 - **Flexibilidade**: Adapta-se facilmente às mudanças de requisitos.
 
 #### Metodologias
+##### Extreme Programming (XP)
+- **Fases**: Exploração, planeamento, iterações, produção, manutenção e encerramento.
+- **Cartões de história**: Os clientes escrevem as caraterísticas que desejam como cartões simples para informar o desenvolvimento.
+- **Jogo de planeamento**: Os clientes priorizam os cartões de história e os programadores estimam o esforço.
+- **Práticas**:
+	- Testes contínuos
+	- Programação em pares
+	- Refactoring para simplicidade
+	- Propriedade colectiva do código
+	* Envolvimento do cliente no local
+
+##### Scrum
+- **Framework**: Centra-se na gestão do [[processo]] de desenvolvimento de software através da definição de papéis, eventos e artefactos.
+- **Papéis**:
+	- ***Scrum Master***: Facilita o [[processo]], aborda os impedimentos.
+	- ***Product Owner***: Define a visão do produto, gerencia o Product Backlog.
+	- ***Scrum Team***: Grupo multifuncional que trabalha na entrega dos incrementos do produto.
+- **Fases**:
+	- ***Pre-Game***: Planeamento e configuração da arquitetura.
+	- ***Desenvolvimento***: Sprints iterativos focados na construção de incrementos funcionais.
+	- ***Pos-Game***: Revisão dos resultados e planeamento das fases seguintes.
+
+###### Scrum Events
+- **Sprint Planning**: A equipa planeia o trabalho para o próximo Sprint.
+- **Daily Scrum Meeting**: Pequena reunião diária para sincronizar as atividades e abordar os impedimentos.
+- **Sprint Review**:  A equipa apresenta às partes interessadas o que foi realizado durante o Sprint.
+- **Sprint Retrospective**: A equipa reflecte sobre o Sprint passado para melhorar o desempenho futuro.
+
+###### Compreender isto sobre agile
+Compreender os **princípios Agile** que enfatizam a flexibilidade, a colaboração e a satisfação do cliente.
+Reconhecer os **valores** e **papéis** das metodologias Agile, como XP e Scrum.
+Familiarizar-se com o **[[processo]]** e os **artefactos** essenciais para implementar estratégias Agile de forma eficaz.
+Aceitar a **melhoria contínua** e a **reflexão** no âmbito das práticas Agile para melhorar os resultados do projeto.
+
+##### Planning Poker
+- **Planning Poker** envolve a seleção de User Stories ou tarefas que requerem uma estimativa de esforço.
+- A equipa discute uma User Story e cada membro seleciona um cartão que representa a sua estimativa.
+- Após a discussão, a equipa revela as suas cartas e, em seguida, calcula a média desses valores para obter um consenso.
+- Os membros mais experientes da equipa podem ajustar a média antes de avançar para a próxima User Story.
+- Podem ser utilizadas várias sequências de numeração para os cartões, incluindo a sequência de *Fibonacci* e alternativas como os tamanhos das T-shirts (XS, S, M, L, XL).
