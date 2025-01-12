@@ -11,13 +11,32 @@
             "id": "173723dc8a4fb2c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/My University Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My University Note"
+            }
+          },
+          {
+            "id": "6d501bc200cb7c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Metodologia Ágeis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metodologia Ágeis"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,35 +103,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "940cd997c1bcb084",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
             "id": "ba4cfc29e619c51d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Modelo.md",
+                "file": "Faculdade/Metodologia Ágeis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Modelo"
+              "title": "Outgoing links from Metodologia Ágeis"
             }
           },
           {
@@ -144,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,14 +159,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "940cd997c1bcb084",
+  "active": "9ccd86d90475756e",
   "lastOpenFiles": [
+    "Faculdade/My University Note.md",
+    "Faculdade/Metodologia Ágeis.md",
+    "Faculdade/Metodologia.md",
     "Faculdade/Modelo RAD.md",
     "Faculdade/SDLC.md",
     "Faculdade/Modelo V.md",
     "Faculdade/Produto.md",
     "Faculdade/Qualidade.md",
-    "Faculdade/My University Note.md",
     "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
     "Faculdade/Perguntas Exame SD.md",
     "Faculdade/Sistemas Distribuídos.md",
@@ -190,8 +194,6 @@
     "Faculdade/Caixa Branca.md",
     "Faculdade/Ambiente.md",
     "Faculdade/Modelo de Prototipagem.md",
-    "Faculdade/Periféricos.md",
-    "Faculdade/Modelo em Cascata Revisto.md",
     "Faculdade/Imagens/prototipagem.png",
     "Faculdade/Imagens/Waterfall revisto.png",
     "Faculdade/Imagens/Waterfall 1.png",

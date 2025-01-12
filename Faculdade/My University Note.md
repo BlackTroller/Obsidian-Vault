@@ -16,6 +16,7 @@
 	- [[Caixa Branca]]
 	- [[Software Quality Assurance]]
 	- [[SCM]]
+	- [[Metodologia Ágeis]]
 	- [[SDLC]]
 		- [[Modelo em Cascata]]
 		- [[Modelo em Cascata Revisto]]
