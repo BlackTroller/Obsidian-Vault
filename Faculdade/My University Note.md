@@ -47,5 +47,4 @@
 - [[Sistemas Distribuídos]]
 	- [[Modelos de Programação Distribuida]]
 	- [[Tipo de Sincronização]]
-	- 
 	- [[Perguntas Exame SD]]
