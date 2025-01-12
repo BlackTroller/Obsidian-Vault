@@ -24,7 +24,7 @@
 ##### Principais caraterísticas dos métodos ágeis
 - [[Iterativo e incremental]]: O desenvolvimento ocorre em ciclos (iterações) que permitem melhorias contínuas.
 - **Orientado para as pessoas**: Dá ênfase ao trabalho em equipa e à colaboração.
-- **Modularidade**: Os projectos são divididos em secções mais pequenas e fáceis de gerir.
+- **Modularidade**: Os projetos são divididos em secções mais pequenas e fáceis de gerir.
 - **Flexibilidade**: Adapta-se facilmente às mudanças de requisitos.
 
 #### Metodologias
@@ -36,7 +36,7 @@
 	- Testes contínuos
 	- Programação em pares
 	- Refactoring para simplicidade
-	- Propriedade colectiva do código
+	- Propriedade coletiva do código
 	* Envolvimento do cliente no local
 
 ##### Scrum
