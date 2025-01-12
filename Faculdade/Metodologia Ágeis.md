@@ -1,6 +1,6 @@
 #### Agile Mindset Overview
 #### Definição
-- **Desenvolvimente Agile**: Uma abordagem iterativa e incremental para o desenvolvimento de software que enfatiza a colaboração e a flexibilidade para se adaptar às mudanças.
+- **Desenvolvimento Agile**: Uma abordagem [[iterativo e incremental]] para o desenvolvimento de software que enfatiza a colaboração e a flexibilidade para se adaptar às mudanças.
 - **Manifesto para o Desenvolvimento Ágil de Software (2001)**: Um documento fundamental que descreve os valores e princípios fundamentais das metodologias ágeis.
 ##### Core Values of Agile
 - Indivíduos e interações em vez de [[processo]]s e [[ferramenta]]s
@@ -20,3 +20,11 @@
 10. A simplicidade é essencial.
 11. As melhores arquiteturas e requisitos surgem de equipas auto-organizadas.
 12. Em intervalos regulares, a equipa reflete sobre a forma de se tornar mais eficaz e ajusta-se em conformidade.
+
+##### Principais caraterísticas dos métodos ágeis
+- [[Iterativo e incremental]]: O desenvolvimento ocorre em ciclos (iterações) que permitem melhorias contínuas.
+- **Orientado para as pessoas**: Dá ênfase ao trabalho em equipa e à colaboração.
+- **Modularidade**: Os projectos são divididos em secções mais pequenas e fáceis de gerir.
+- **Flexibilidade**: Adapta-se facilmente às mudanças de requisitos.
+
+#### Metodologias
