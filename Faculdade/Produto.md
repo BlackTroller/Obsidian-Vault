@@ -22,4 +22,4 @@ Aqui estão alguns exemplos de produtos em engenharia de software:
 9. **Sistemas de Controle de Versão:**
     - Softwares que gerenciam alterações no código-fonte, permitindo que várias pessoas colaborem no desenvolvimento do software sem interferências.
 
-É importante notar que o [[produto]] em [[engenharia de software]] não se limita apenas ao código-fonte ou à lógica do programa. Também inclui documentação, manuais, scripts de instalação e todos os artefatos associados ao desenvolvimento e ***manutenção*** do software. O ciclo de vida de um [[produto]] de software abrange desde a concepção e o desenvolvimento até a manutenção e eventual desativação.
+É importante notar que o [[produto]] em [[engenharia de software]] não se limita apenas ao código-fonte ou à lógica do programa. Também inclui documentação, manuais, scripts de instalação e todos os artefactos associados ao desenvolvimento e ***manutenção*** do software. O ciclo de vida de um [[produto]] de software abrange desde a conceção e o desenvolvimento até a manutenção e eventual desativação.
