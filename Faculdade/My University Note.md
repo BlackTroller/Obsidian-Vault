@@ -57,4 +57,5 @@
 	- [[Mapa de processos e Matriz SIPOC]]
 	- [[BPMN]]
 	- [[Aula Aberta Farmácia]]
-	- 
+	- [[Aula Aberta Indústria Automóvel]]
+	- [[]]
