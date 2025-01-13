@@ -2,7 +2,7 @@
 
 ### Objetivos dos Sistemas de Informação (SI)
 
-- **Definição e Avaliação**: **SI** são fundamentais no ambiente empresarial atual, envolvendo tanto as **perspectivas de negócio** quanto as **perspectivas técnicas**.
+- **Definição e Avaliação**: **SI** são fundamentais no ambiente empresarial atual, envolvendo tanto as **perspetivas de negócio** quanto as **perspetivas técnicas**.
 - **Dimensões**: Há três dimensões principais dos SI que devem ser identificadas e examinadas.
 
 ### Dados e Informação
@@ -23,7 +23,7 @@
 
 ### Abordagens Contemporâneas em SI
 
-- **Perspectivas técnicas e comportamentais** devem ser equilibradas para otimizar o desempenho organizacional.
+- **Perspetivas técnicas e comportamentais** devem ser equilibradas para otimizar o desempenho organizacional.
 - A **perspetiva sócio-técnica** foca na interdependência entre tecnologia e estrutura organizacional.
 ## O Papel dos SI no Ambiente Empresarial Atual
 
