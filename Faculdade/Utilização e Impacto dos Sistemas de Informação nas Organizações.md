@@ -59,7 +59,12 @@
 - **Organizacional**: Falha em trazer benefícios esperados à organização.
 - **Projeto**: Problemas com a gestão do tempo e custos.
 - **Técnico**: Questões com hardware e software.
+- ###### Resumindo:
 
+- **Dimensão Vertical**: Relaciona-se com **utilizadores e organização**.
+    - Foco: Aceitação, envolvimento, formação e alinhamento organizacional.
+- **Dimensão Horizontal**: Relaciona-se com **tecnologia e processos**.
+    - Foco: Definição de requisitos, qualidade técnica, planeamento e gestão do desenvolvimento.
 ### Estratégias para Evitar o Insucesso
 
 - **Técnicas**: Seleção apropriada de ferramentas e metodologias.
