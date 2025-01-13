@@ -71,3 +71,18 @@
 - **BPMN** é essencial para representar graficamente os processos de negócio, facilitando a compreensão e comunicação.
 - Implementar práticas corretas e evitar anti-padrões garantem a eficiência na modelação de processos.
 - O alinhamento do modelo de negócio aos processos é crucial para a eficácia organizacional.
+
+###### Notação do BPMN
+![[BPMN 1.png]]
+
+**Elementos Flow**
+![[BPMN 2.png]]
+
+**XOR**
+![[BPMN 3.png]]
+
+**And**
+![[BPMN 4.png]]
+
+**OR**
+![[BPMN 5.png]]
