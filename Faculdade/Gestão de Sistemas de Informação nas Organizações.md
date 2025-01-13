@@ -2,7 +2,7 @@
 
 ### Definição
 
-- **Gestão de SI**: _Gestão do recurso informação e dos componentes envolvidos no planeamento, desenvolvimento, exploração e manutenção de Sistemas de Informação (SI)._
+- **Gestão de SI**: Gestão do recurso informação e dos componentes envolvidos no planeamento, desenvolvimento, exploração e manutenção de Sistemas de Informação (SI).
 
 ### Principais Atividades
 
