@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mapa de processos e Matriz SIPOC.md",
+                "file": "Faculdade/Mapa de processos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapa de processos e Matriz SIPOC"
+              "title": "Mapa de processos"
             }
           }
         ]
@@ -93,12 +93,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mapa de processos e Matriz SIPOC.md",
+                "file": "Faculdade/Mapa de processos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mapa de processos e Matriz SIPOC"
+              "title": "Outgoing links from Mapa de processos"
             }
           },
           {
@@ -147,7 +147,9 @@
   "active": "70d083f4166c41a4",
   "lastOpenFiles": [
     "Faculdade/My University Note.md",
-    "Mapa de processos e Matriz SIPOC.md",
+    "Faculdade/Modelos de Programação Distribuída.md",
+    "Faculdade/Imagens/Matriz SIPOC.png",
+    "Faculdade/Mapa de processos e Matriz SIPOC.md",
     "Faculdade/Mapa de processos.md",
     "Faculdade/Gestão por processos e BMC.md",
     "Faculdade/Utilização e Impacto dos Sistemas de Informação nas Organizações.md",
@@ -171,7 +173,6 @@
     "Faculdade/Perguntas Exame SD.md",
     "Faculdade/Sistemas Distribuídos.md",
     "Faculdade/Sistemas operativos.md",
-    "Faculdade/Modelos de Programação Distribuida.md",
     "Faculdade/Imagens/ISO 27001.png",
     "Faculdade/Imagens/SDLC 7.png",
     "Faculdade/Imagens/matriz de seleção.png",
@@ -181,7 +182,6 @@
     "Faculdade/Imagens/entrega incremental.png",
     "Faculdade/Imagens/prototipagem.png",
     "Faculdade/Imagens/Waterfall revisto.png",
-    "Faculdade/Imagens/Waterfall 1.png",
     "Obsidian",
     "Excalidraw",
     "Faculdade/Imagens",

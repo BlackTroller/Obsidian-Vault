@@ -45,7 +45,7 @@
 - [[Gestão de Projetos Informáticos]]
 	- [[Normalização de Gestão de Projetos Informáticos]]
 - [[Sistemas Distribuídos]]
-	- [[Modelos de Programação Distribuida]]
+	- [[Modelos de Programação Distribuída]]
 	- [[Tipo de Sincronização]]
 	- [[Perguntas Exame SD]]
 - [[Sistemas de Informação]]
