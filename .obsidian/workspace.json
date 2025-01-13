@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Perguntas Exame.md",
+                "file": "Sistemas de Informação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perguntas Exame"
+              "title": "Sistemas de Informação"
             }
           }
         ]
@@ -93,12 +93,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Perguntas Exame.md",
+                "file": "Sistemas de Informação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Perguntas Exame"
+              "title": "Outgoing links from Sistemas de Informação"
             }
           },
           {
@@ -146,16 +146,17 @@
   },
   "active": "70d083f4166c41a4",
   "lastOpenFiles": [
+    "Faculdade/My University Note.md",
+    "Sistemas de Informação.md",
+    "Faculdade/Perguntas Exame.md",
     "Faculdade/SDLC.md",
     "Faculdade/Modelo em Cascata.md",
     "Faculdade/Qualidade.md",
     "Faculdade/Produto.md",
-    "Faculdade/My University Note.md",
     "Faculdade/Metodologia Ágeis.md",
     "Faculdade/Gestão de Projetos Informáticos.md",
     "Faculdade/Case Study SIO.md",
     "Faculdade/Processo (Sistemas operativos).md",
-    "Faculdade/Perguntas Exame.md",
     "Faculdade/Metodologia.md",
     "Faculdade/Modelo RAD.md",
     "Faculdade/Modelo V.md",
@@ -178,7 +179,6 @@
     "Faculdade/Iterativo e Incremental.md",
     "Faculdade/Imagens/entrega incremental.png",
     "Faculdade/Caixa Preta.md",
-    "Faculdade/Caixa Branca.md",
     "Faculdade/Imagens/prototipagem.png",
     "Faculdade/Imagens/Waterfall revisto.png",
     "Faculdade/Imagens/Waterfall 1.png",
