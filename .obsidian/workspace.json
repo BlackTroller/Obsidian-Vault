@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas de Informação.md",
+                "file": "Faculdade/Sistemas de Informação.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas de Informação.md",
+                "file": "Faculdade/Sistemas de Informação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -144,10 +144,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70d083f4166c41a4",
+  "active": "9ccd86d90475756e",
   "lastOpenFiles": [
     "Faculdade/My University Note.md",
-    "Sistemas de Informação.md",
+    "Faculdade/Sistemas de Informação.md",
     "Faculdade/Perguntas Exame.md",
     "Faculdade/SDLC.md",
     "Faculdade/Modelo em Cascata.md",
