@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23e0750c157ea247",
+        "id": "5d7624b4a06e3bd0",
         "type": "tabs",
         "children": [
           {
-            "id": "9ad3005c8c343fba",
+            "id": "33896aedcb37685c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,7 +157,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ad3005c8c343fba",
+  "active": "33896aedcb37685c",
   "lastOpenFiles": [
     "Faculdade/My University Note.md",
     "Faculdade/Gestão de Sistemas de Informação nas Organizações.md",
