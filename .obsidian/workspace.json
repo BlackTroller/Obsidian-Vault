@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mapa de processos.md",
+                "file": "Mapa de processos e Matriz SIPOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapa de processos"
+              "title": "Mapa de processos e Matriz SIPOC"
             }
           }
         ]
@@ -93,12 +93,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mapa de processos.md",
+                "file": "Mapa de processos e Matriz SIPOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mapa de processos"
+              "title": "Outgoing links from Mapa de processos e Matriz SIPOC"
             }
           },
           {
@@ -147,7 +147,8 @@
   "active": "70d083f4166c41a4",
   "lastOpenFiles": [
     "Faculdade/My University Note.md",
-    "Mapa de processos.md",
+    "Mapa de processos e Matriz SIPOC.md",
+    "Faculdade/Mapa de processos.md",
     "Faculdade/Gestão por processos e BMC.md",
     "Faculdade/Utilização e Impacto dos Sistemas de Informação nas Organizações.md",
     "Faculdade/BPMN.md",
@@ -171,7 +172,6 @@
     "Faculdade/Sistemas Distribuídos.md",
     "Faculdade/Sistemas operativos.md",
     "Faculdade/Modelos de Programação Distribuida.md",
-    "Faculdade/Tipo de Sincronização.md",
     "Faculdade/Imagens/ISO 27001.png",
     "Faculdade/Imagens/SDLC 7.png",
     "Faculdade/Imagens/matriz de seleção.png",
