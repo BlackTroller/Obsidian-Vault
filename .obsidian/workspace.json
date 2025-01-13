@@ -11,10 +11,14 @@
             "id": "3d93384070f90878",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Aula Aberta Farmácia.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aula Aberta Farmácia"
             }
           }
         ]
@@ -159,6 +163,8 @@
   },
   "active": "3d93384070f90878",
   "lastOpenFiles": [
+    "Faculdade/My University Note.md",
+    "Faculdade/Aula Aberta Farmácia.md",
     "Faculdade/Caixa Branca.md",
     "Faculdade/BPMN.md",
     "Faculdade/Imagens/BPMN 5.png",
@@ -167,7 +173,6 @@
     "Faculdade/Imagens/BPMN 3.png",
     "Faculdade/Imagens/BPMN 2.png",
     "Faculdade/Imagens/BPMN 1.png",
-    "Faculdade/My University Note.md",
     "Faculdade/Gestão de Sistemas de Informação nas Organizações.md",
     "Faculdade/Aplicações dos Sistemas de Informação nas Organizações.md",
     "Faculdade/Utilização e Impacto dos Sistemas de Informação nas Organizações.md",
@@ -190,7 +195,6 @@
     "Faculdade/Modelo V.md",
     "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
     "Faculdade/Perguntas Exame SD.md",
-    "Faculdade/Sistemas Distribuídos.md",
     "Faculdade/Imagens/ISO 27001.png",
     "Faculdade/Imagens/SDLC 7.png",
     "Faculdade/Imagens/matriz de seleção.png",

@@ -56,3 +56,5 @@
 	- [[Mapa de processos]]
 	- [[Mapa de processos e Matriz SIPOC]]
 	- [[BPMN]]
+	- [[Aula Aberta Farmácia]]
+	- 
