@@ -17,9 +17,22 @@
 - O Regulamento Geral sobre a Proteção de Dados (RGPD) reforça as diretrizes para o tratamento de dados pessoais, garantindo a conformidade das organizações que operam na UE.
 - As diretivas NIS e NIS2 estabelecem um quadro legislativo para a cibersegurança em toda a UE, com o objetivo de aumentar a resiliência contra as ciber-ameaças.
 
-#### 
+#### Modelo e infraestrutura do ERT Group
 
+- O modelo da ERT privilegia a alta disponibilidade e resiliência, dispondo de linhas de acesso redundantes, firewalls e backups diários a mensais para suporte à recuperação de desastres.
+- A ERT utiliza um sistema de gestão híbrido que integra várias necessidades operacionais, com o sistema ERTSoft desenvolvido em .NET e C# para gerir os registos de produção e consumíveis.
+- O helpdesk é gerido através do Freshdesk, categorizando os pedidos de suporte em quatro níveis de urgência, garantindo tempos de resposta eficientes para questões críticas.
 
+#### Desafios na implementação de ambientes de aplicação
+
+- Os principais desafios incluem a avaliação da experiência do fornecedor relacionada com as necessidades específicas do sector, a compreensão dos regulamentos comerciais e a disponibilidade de apoio com base na localização geográfica.
+- As considerações sobre os recursos de apoio interno e a potencial necessidade de consultoria externa durante a implementação do ERP são fundamentais para o sucesso do projeto.
+- A capacidade de obter um retorno do investimento (ROI) e de se integrar nos sistemas existentes são fatores vitais para a seleção de soluções adequadas.
+#### Desafios futuros para o ERT
+
+- As ERT enfrentam os desafios iminentes da **Indústria 4.0 e da IoT**, que exigem a aquisição de dados em tempo real de equipamentos de fábrica e KPIs de produção.
+- As estratégias de gestão de documentos têm de se adaptar para incluir o controlo de versões, registos de segurança e a transição do papel para soluções digitais através de assinaturas eletrónicas.
+- A conformidade com a norma ISO27001/TISAX para a certificação da segurança da informação é essencial para manter a continuidade do negócio e proteger os dados sensíveis.
 
 ---
 ## Resumo
