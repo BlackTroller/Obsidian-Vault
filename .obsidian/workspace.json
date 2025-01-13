@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Aplicações dos Sistemas de Informação nas Organizações.md",
+                "file": "Gestão de Sistemas de Informação nas Organizações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aplicações dos Sistemas de Informação nas Organizações"
+              "title": "Gestão de Sistemas de Informação nas Organizações"
             }
           }
         ]
@@ -93,12 +93,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Aplicações dos Sistemas de Informação nas Organizações.md",
+                "file": "Gestão de Sistemas de Informação nas Organizações.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aplicações dos Sistemas de Informação nas Organizações"
+              "title": "Outgoing links from Gestão de Sistemas de Informação nas Organizações"
             }
           },
           {
@@ -144,9 +144,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ccd86d90475756e",
+  "active": "70d083f4166c41a4",
   "lastOpenFiles": [
     "Faculdade/My University Note.md",
+    "Gestão de Sistemas de Informação nas Organizações.md",
     "Faculdade/Aplicações dos Sistemas de Informação nas Organizações.md",
     "Faculdade/Sistemas de Informação.md",
     "Faculdade/Perguntas Exame.md",
@@ -177,7 +178,6 @@
     "Faculdade/Espiral.md",
     "Faculdade/Imagens/exemplo_espiral.png",
     "Faculdade/Imagens/modelo espiral.png",
-    "Faculdade/Iterativo e Incremental.md",
     "Faculdade/Imagens/entrega incremental.png",
     "Faculdade/Imagens/prototipagem.png",
     "Faculdade/Imagens/Waterfall revisto.png",
