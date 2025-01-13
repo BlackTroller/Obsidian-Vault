@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Gestão de Sistemas de Informação nas Organizações.md",
+                "file": "Faculdade/Utilização e Impacto dos Sistemas de Informação nas Organizações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gestão de Sistemas de Informação nas Organizações"
+              "title": "Utilização e Impacto dos Sistemas de Informação nas Organizações"
             }
           }
         ]
@@ -93,12 +93,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Gestão de Sistemas de Informação nas Organizações.md",
+                "file": "Faculdade/Utilização e Impacto dos Sistemas de Informação nas Organizações.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gestão de Sistemas de Informação nas Organizações"
+              "title": "Outgoing links from Utilização e Impacto dos Sistemas de Informação nas Organizações"
             }
           },
           {
@@ -147,6 +147,8 @@
   "active": "9ccd86d90475756e",
   "lastOpenFiles": [
     "Faculdade/My University Note.md",
+    "Faculdade/Utilização e Impacto dos Sistemas de Informação nas Organizações.md",
+    "Faculdade/BPMN.md",
     "Faculdade/Gestão de Sistemas de Informação nas Organizações.md",
     "Faculdade/Aplicações dos Sistemas de Informação nas Organizações.md",
     "Faculdade/Sistemas de Informação.md",
@@ -171,11 +173,9 @@
     "Faculdade/Processo.md",
     "Faculdade/Métricas.md",
     "Faculdade/Imagens/ISO 27001.png",
-    "Faculdade/Espiral WinWin.md",
     "Faculdade/Imagens/SDLC 7.png",
     "Faculdade/Imagens/matriz de seleção.png",
     "Faculdade/Imagens/selecionar SDLC.png",
-    "Faculdade/Espiral.md",
     "Faculdade/Imagens/exemplo_espiral.png",
     "Faculdade/Imagens/modelo espiral.png",
     "Faculdade/Imagens/entrega incremental.png",

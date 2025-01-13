@@ -51,4 +51,6 @@
 - [[Sistemas de Informação]]
 	- [[Aplicações dos Sistemas de Informação nas Organizações]]
 	- [[Gestão de Sistemas de Informação nas Organizações]]
+	- [[BPMN]]
+	- [[Utilização e Impacto dos Sistemas de Informação nas Organizações]]
 	- 
