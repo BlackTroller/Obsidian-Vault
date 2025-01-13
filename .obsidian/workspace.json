@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8a81df41aed5b188",
+        "id": "23e0750c157ea247",
         "type": "tabs",
         "children": [
           {
-            "id": "70d083f4166c41a4",
+            "id": "9ad3005c8c343fba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade/Mapa de processos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mapa de processos"
+              "title": "New tab"
             }
           }
         ]
@@ -93,12 +89,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Mapa de processos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mapa de processos"
+              "title": "Outgoing links"
             }
           },
           {
@@ -125,6 +120,24 @@
               "icon": "lucide-list",
               "title": "Outline of Modelo"
             }
+          },
+          {
+            "id": "eae43a0d1dc2df75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
           }
         ]
       }
@@ -144,18 +157,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70d083f4166c41a4",
+  "active": "9ad3005c8c343fba",
   "lastOpenFiles": [
     "Faculdade/My University Note.md",
-    "Faculdade/Modelos de Programação Distribuída.md",
-    "Faculdade/Imagens/Matriz SIPOC.png",
-    "Faculdade/Mapa de processos e Matriz SIPOC.md",
-    "Faculdade/Mapa de processos.md",
-    "Faculdade/Gestão por processos e BMC.md",
-    "Faculdade/Utilização e Impacto dos Sistemas de Informação nas Organizações.md",
-    "Faculdade/BPMN.md",
     "Faculdade/Gestão de Sistemas de Informação nas Organizações.md",
     "Faculdade/Aplicações dos Sistemas de Informação nas Organizações.md",
+    "Faculdade/Utilização e Impacto dos Sistemas de Informação nas Organizações.md",
+    "Faculdade/Gestão por processos e BMC.md",
+    "Faculdade/Mapa de processos.md",
+    "Faculdade/Mapa de processos e Matriz SIPOC.md",
+    "Faculdade/BPMN.md",
+    "Faculdade/Modelos de Programação Distribuída.md",
+    "Faculdade/Imagens/Matriz SIPOC.png",
     "Faculdade/Sistemas de Informação.md",
     "Faculdade/Perguntas Exame.md",
     "Faculdade/SDLC.md",
