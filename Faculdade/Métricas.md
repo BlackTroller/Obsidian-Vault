@@ -28,3 +28,14 @@ As [[métricas]] em engenharia de software são medidas quantitativas utilizadas
 #### Tipos de medidas
 - **Medidas diretas (internas)**: Custos, esforço, linhas de código (LOC), velocidade, utilização de memória.
 - **Medidas indiretas (externas)**: Funcionalidade, [[qualidade]], complexidade, fiabilidade.
+
+#### Categoria de Medição
+
+| Categoria                      | Métricas                                   | Exemplos específicos                           |
+| ------------------------------ | ------------------------------------------ | ---------------------------------------------- |
+| Métricas de Gestão             | Tamanho (LOC, KLOC, Pontos de função)      | Duração da tarefa em horas, Esforço do projeto |
+| Métricas de Qualidade Software | Densidade de defeitos, cobertura de testes | Defeitos por KLOC, Taxa de Remoção de Defeitos |
+| Métricas de requisitos         | Solicitações de mudança e frequência       | Esforços para mudanças de requisitos           |
+| Métricas de projeto            | Complexidade ciclomática, coesão           | Métricas de nível de classe como acoplamento   |
+| Métricas de manutenção         | Tempo médio entre alterações               | Fiabilidade do sistema, tempo de inatividade   |
+

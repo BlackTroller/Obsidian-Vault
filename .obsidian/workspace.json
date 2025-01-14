@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Métricas.md",
+                "file": "Faculdade/Espiral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Métricas"
+              "title": "Espiral"
             }
           }
         ]
@@ -163,6 +163,7 @@
   },
   "active": "0d822aae5271f5c3",
   "lastOpenFiles": [
+    "Faculdade/Métricas.md",
     "Faculdade/My University Note.md",
     "Faculdade/Gestão de Sistemas de Informação nas Organizações.md",
     "Faculdade/Utilização e Impacto dos Sistemas de Informação nas Organizações.md",
@@ -194,7 +195,6 @@
     "Faculdade/Metodologia.md",
     "Faculdade/Modelo RAD.md",
     "Faculdade/Modelo V.md",
-    "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
     "Faculdade/Imagens/ISO 27001.png",
     "Faculdade/Imagens/SDLC 7.png",
     "Faculdade/Imagens/matriz de seleção.png",
