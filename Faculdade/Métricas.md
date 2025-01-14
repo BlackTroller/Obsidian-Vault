@@ -39,3 +39,19 @@ As [[métricas]] em engenharia de software são medidas quantitativas utilizadas
 | Métricas de projeto            | Complexidade ciclomática, coesão           | Métricas de nível de classe como acoplamento   |
 | Métricas de manutenção         | Tempo médio entre alterações               | Fiabilidade do sistema, tempo de inatividade   |
 
+#### Factores de qualidade
+- **Acoplamento**: Reflecte as relações de dependência entre módulos. É preferível um menor acoplamento.
+- **Complexidade**: Medida através de várias métricas, incluindo as ***medidas de Halstead*** e a **complexidade de McCabe**.
+###### Examples of Metrics in Context
+- **Coupling Metrics**: RFC (Response for a Class), CBO (Coupling Between Objects).
+- **Complexity Metrics**: Total operator and operand measures to assess code interpretability.
+
+#### Métricas adicionais
+- **Correção**: Defeitos por KLOC ou falhas por hora.
+- **Manutenibilidade**: Tempo médio por alteração ou custo das correções.
+- **Usabilidade**: Tempo de formação e competências necessárias para uma utilização eficiente.
+
+#### Resumo e principais conclusões
+- A medição da qualidade do software é multifacetada, envolvendo várias métricas internas e externas.
+- Compreender as métricas do produto e do processo é crucial para a gestão eficaz de software e garantia de qualidade.
+- A qualidade é um espectro que requer uma avaliação contínua para além dos meros critérios de aprovação/reprovação dos testes.
