@@ -46,6 +46,12 @@ As [[métricas]] em engenharia de software são medidas quantitativas utilizadas
 - **Coupling Metrics**: RFC (Response for a Class), CBO (Coupling Between Objects).
 - **Complexity Metrics**: Total operator and operand measures to assess code interpretability.
 
+![[métricas 1.png]]
+
+![[métricas 2.png]]
+
+![[métricas 3.png]]
+
 #### Métricas adicionais
 - **Correção**: Defeitos por KLOC ou falhas por hora.
 - **Manutenibilidade**: Tempo médio por alteração ou custo das correções.
