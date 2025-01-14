@@ -81,12 +81,12 @@ enquanto que o **PMBOK** está a tentar trazer o cliente para o projeto a **norm
 | Estágios da gestão de projetos | 5 grupos de processos | 5 grupos de processos   |
 | Tópicos                        | 10 grupos temáticos   | 5 áreas de conhecimento |
 | Processos                      | 39 processos          | 47 processos            |
-##### Capability Maturity Model Integration (CMMI)
+##### Capability Maturity Model Integration ([[CMMI]])
 
 - É um modelo de gestão da qualidade, aplicável aos processos de desenvolvimento de software
 - Constitui uma estrutura de trabalho que descreve os elementos chave para um processo de software eficaz e um caminho evolutivo até um processo maduro e disciplinado
 - ***Objetivo: Melhoria contínua no desenvolvimento de software***
-- **CMMI** - modelo de referência que fornece orientação para o desenvolvimento de processos de software
+- **[[CMMI]]** - modelo de referência que fornece orientação para o desenvolvimento de processos de software
 - ***Reconhecido mundialmente por testar a maturidade dos processos de desenvolvimento da organização***
 - ***Avalia e “posiciona” a empresa numa escala progressiva de 5 níveis de maturidade, especificando o que é exigido em cada um dos níveis***
 

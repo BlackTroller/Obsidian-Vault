@@ -49,9 +49,9 @@ Podemos concluir que, para garantir a [[qualidade]] de software, deve-se garanti
 
 ![[roadmap 6.png]]
 
-O grande objetivo de uniformizar, sistematizar e automatizar o problema (aplicar os conceitos fundamentais de engenharia) é garantir a [[qualidade]] de software. É possível abordar esta temática através de uma perspectiva do [[produto]] ou do [[processo]] (**normas ISO/IEC 9126 , TickIT + ISO 900 + CMMI** respectivamente) (Ambas as perspectivas usam o ***SQA***, **Software Quality Assurance**, que consiste em verificar o software, rever o software e a sua validação).
+O grande objetivo de uniformizar, sistematizar e automatizar o problema (aplicar os conceitos fundamentais de engenharia) é garantir a [[qualidade]] de software. É possível abordar esta temática através de uma perspetiva do [[produto]] ou do [[processo]] (**normas ISO/IEC 9126 , TickIT + ISO 900 + [[CMMI]]** respetivamente) (Ambas as perspetivas usam o ***SQA***, **Software Quality Assurance**, que consiste em verificar o software, rever o software e a sua validação).
 
-### Perspectiva (vistas) sobre a qualidade de software
+### Perspetiva (vistas) sobre a qualidade de software
 
 - A [[Qualidade]] do [[Processo]] e a [[Qualidade]] do [[Produto]] estão interligados. Não devemos dissociar o processo do produto.
 - No entanto, o foco poderá ser maior numa ou noutra componente.
@@ -61,7 +61,7 @@ A [[qualidade]] pode ser melhorada através de um [[processo]] de revisão, aval
 - Os standards que regem a [[qualidade]] do [[processo]] são: 
 	* TickIT; 
 	* ISO 9001-00; 
-	* CMMI. 
+	* [[CMMI]]. 
 
 O standard da **[[qualidade]] de [[produto]]** é a ***ISO 9126-01***. A [[qualidade]] total ou a ***T.Q.M.*** (**total quality management**), depende: 
 * da **Mão de obra** (o quanto ***qualificada*** é), 
@@ -83,7 +83,7 @@ O ***total quality management*** possui vários níveis:
 ![[SWQualityFundamentals.jpg]]
 
 
-A qualidade de software é avaliada com base em normas específicas e **requisitos**, que podem ser explícitos ou implícitos, definindo as características necessárias para medir o desempenho e a fiabilidade do software. A ***norma ISO9126-01*** é um padrão que orienta a avaliação da **qualidade do produto**, enquanto ***normas como TickIT***, ***CMMI*** e ***ISO9001-00*** estão focadas na **qualidade do processo**.
+A qualidade de software é avaliada com base em normas específicas e **requisitos**, que podem ser explícitos ou implícitos, definindo as características necessárias para medir o desempenho e a fiabilidade do software. A ***norma ISO9126-01*** é um padrão que orienta a avaliação da **qualidade do produto**, enquanto ***normas como TickIT***, ***[[CMMI]]*** e ***ISO9001-00*** estão focadas na **qualidade do processo**.
 
 A **qualidade do produto** é analisada em três áreas principais. A *revisão do produto* foca-se na testabilidade, flexibilidade, manutenibilidade e integridade. A *operação do produto* considera a eficiência, fiabilidade, correção e usabilidade. Por fim, a *transição do produto* aborda a reutilização, interoperabilidade e portabilidade. Estes fatores são fundamentais para garantir que o software atende aos **requisitos funcionais** e de **desempenho** esperados.
 

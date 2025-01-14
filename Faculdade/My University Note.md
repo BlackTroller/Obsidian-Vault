@@ -9,6 +9,7 @@
 	- [[Produto]]
 	- [[SWeBoK]]
 	- [[Métricas]]
+	- [[CMMI]]
 	- [[Requisitos de software]]
 	- [[Testes de software]]
 	- [[Testing]]
