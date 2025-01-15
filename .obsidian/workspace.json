@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/CMMI.md",
+                "file": "Faculdade/Espiral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMMI"
+              "title": "Espiral"
             }
           }
         ]
@@ -163,6 +163,8 @@
   },
   "active": "cb04c47d35f596b6",
   "lastOpenFiles": [
+    "Faculdade/Modelo de Prototipagem.md",
+    "Faculdade/CMMI.md",
     "Faculdade/My University Note.md",
     "Faculdade/BPMN.md",
     "Faculdade/Aplicações dos Sistemas de Informação nas Organizações.md",
@@ -177,7 +179,6 @@
     "Faculdade/Perguntas Exame.md",
     "Faculdade/Normalização de Gestão de Projetos Informáticos.md",
     "Faculdade/Qualidade.md",
-    "Faculdade/CMMI.md",
     "Faculdade/Métricas.md",
     "Faculdade/Imagens/métricas 3.png",
     "Faculdade/Imagens/métricas 2.png",
@@ -197,7 +198,6 @@
     "Faculdade/Produto.md",
     "Faculdade/Metodologia Ágeis.md",
     "Faculdade/Gestão de Projetos Informáticos.md",
-    "Faculdade/Case Study SIO.md",
     "Faculdade/Imagens/ISO 27001.png",
     "Obsidian",
     "Excalidraw",
